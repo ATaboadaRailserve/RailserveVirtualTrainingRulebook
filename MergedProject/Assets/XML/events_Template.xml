@@ -1,0 +1,14 @@
+<items>
+  <item>
+   <username></username>
+   <userid></userid>
+   <gender></gender>
+   <moduleid></moduleid>
+   <sessionid></sessionid>
+   <starttime></starttime>
+   <messagetypeid></messagetypeid>
+   <message></message>
+   <procedure></procedure>
+   <gamefactors></gamefactors>
+  </item>
+</items> 

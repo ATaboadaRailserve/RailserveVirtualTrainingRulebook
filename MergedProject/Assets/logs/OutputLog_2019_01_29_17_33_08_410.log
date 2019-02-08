@@ -1,0 +1,4 @@
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Cursor Escaped
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Ver. 1.0.0.3

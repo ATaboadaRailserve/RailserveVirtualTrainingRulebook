@@ -1,0 +1,50 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>4</moduleid>
+    <sessionid>11920191718302</sessionid>
+    <starttime>1/19/2019 5:19:16 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>1/19/2019 5:19:16 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>3</moduleid>
+    <sessionid>11920191718302</sessionid>
+    <starttime>1/19/2019 5:19:12 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>1/19/2019 5:19:12 PM | PPE Equiped! </message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>3</moduleid>
+    <sessionid>11920191718302</sessionid>
+    <starttime>1/19/2019 5:19:12 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>1/19/2019 5:19:12 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>3</moduleid>
+    <sessionid>11920191718302</sessionid>
+    <starttime>1/19/2019 5:18:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>1/19/2019 5:18:39 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>

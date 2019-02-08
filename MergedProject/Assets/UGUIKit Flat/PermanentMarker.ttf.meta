@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9960f686835bf3a4a90927c7467fea06
+timeCreated: 1508802419
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Permanent Marker
+  fontNames:
+  - Permanent Marker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

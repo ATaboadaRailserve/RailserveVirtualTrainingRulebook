@@ -1,0 +1,338 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920182021347</sessionid>
+    <starttime>12/19/2018 8:25:16 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 8:25:16 PM | Coupled All Cars.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920182021347</sessionid>
+    <starttime>12/19/2018 8:26:43 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 8:26:43 PM | Spotted on the White mark.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920182021347</sessionid>
+    <starttime>12/19/2018 8:26:43 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 8:26:43 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920182021347</sessionid>
+    <starttime>12/19/2018 8:21:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 8:21:40 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-14.285714285714, 14; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920182015866</sessionid>
+    <starttime>12/19/2018 8:16:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 8:16:00 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-14.285714285714, 14; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018209834</sessionid>
+    <starttime>12/19/2018 8:10:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 8:10:08 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-14.285714285714, 14; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018205639</sessionid>
+    <starttime>12/19/2018 8:05:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 8:05:57 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-14.285714285714, 14; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018200450</sessionid>
+    <starttime>12/19/2018 8:04:09 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>12/19/2018 8:04:09 PM | Failed to Stop the Move Further Than 26 Feet Out.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018200450</sessionid>
+    <starttime>12/19/2018 8:04:09 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 8:04:09 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018200450</sessionid>
+    <starttime>12/19/2018 8:01:03 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 8:01:03 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-15.384615384615, 13; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018193837</sessionid>
+    <starttime>12/19/2018 7:42:16 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 7:42:16 PM | Coupled All Cars.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018193837</sessionid>
+    <starttime>12/19/2018 7:43:30 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 7:43:30 PM | Spotted on the White mark.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018193837</sessionid>
+    <starttime>12/19/2018 7:43:30 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 7:43:30 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-100, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>12192018193837</sessionid>
+    <starttime>12/19/2018 7:38:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:38:25 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-9.0909090909091, 11; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920181934995</sessionid>
+    <starttime>12/19/2018 7:34:20 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:34:20 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-10, 10; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920181928697</sessionid>
+    <starttime>12/19/2018 7:31:20 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>12/19/2018 7:31:20 PM | Coupled before Opening Knuckle.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920181928697</sessionid>
+    <starttime>12/19/2018 7:31:20 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 7:31:20 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 0; 28-48.00001, 25; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>36</moduleid>
+    <sessionid>121920181928697</sessionid>
+    <starttime>12/19/2018 7:29:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:29:02 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-10, 10; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181923811</sessionid>
+    <starttime>12/19/2018 7:24:14 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 7:24:14 PM | You won the game!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-100, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181923811</sessionid>
+    <starttime>12/19/2018 7:24:14 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 7:24:14 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-100, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181923811</sessionid>
+    <starttime>12/19/2018 7:23:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:23:23 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-20.000000000001, 10; 28-48.00001, 25; 36-10, 10; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181919190</sessionid>
+    <starttime>12/19/2018 7:20:30 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>12/19/2018 7:20:30 PM | You won the game!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-100, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181919190</sessionid>
+    <starttime>12/19/2018 7:20:30 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 7:20:30 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-100, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181919190</sessionid>
+    <starttime>12/19/2018 7:19:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:19:37 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-20.000000000001, 10; 28-48.00001, 25; 36-10, 10; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181912864</sessionid>
+    <starttime>12/19/2018 7:14:16 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:14:16 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181912864</sessionid>
+    <starttime>12/19/2018 7:14:04 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>12/19/2018 7:14:04 PM | Misidentified locomotive object.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181912864</sessionid>
+    <starttime>12/19/2018 7:14:04 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>12/19/2018 7:14:04 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 0; 21-0, 1; 28-48.00001, 25; 36-0, 0; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121920181912864</sessionid>
+    <starttime>12/19/2018 7:13:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/19/2018 7:13:44 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-22.222222222223, 9; 28-48.00001, 25; 36-10, 10; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>

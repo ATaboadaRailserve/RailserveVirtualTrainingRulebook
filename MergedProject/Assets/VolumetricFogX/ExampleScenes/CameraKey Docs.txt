@@ -1,0 +1,14 @@
+
+Camera used in example scenes has following key controls :
+
+1. Up ArrowKey : move forward.
+
+2. Down ArrowKey : move backward.
+
+3. Left ArrowKey : move Left.
+
+4. Right ArrowKey : move Right.
+
+4. Shift + Left ArrowKey : Rotate Left.
+
+4. Shift + Right ArrowKey : Rotate Right.

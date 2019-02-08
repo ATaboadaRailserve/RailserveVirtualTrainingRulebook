@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 183fee2bdbec95b4da1a9a2466b839fe
+timeCreated: 1469732262
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Splitter_Curve
+    100002: Splitter_Straight
+    100004: Switch_Body
+    100006: Switch_Flag
+    100008: Switch_Lever.001
+    100010: //RootNode
+    100012: Track_MeshPart0
+    100014: Track_MeshPart0_MeshPart0
+    100016: Track_MeshPart0_MeshPart1
+    100018: Track_MeshPart0_MeshPart2
+    100020: Track_MeshPart1
+    100022: Track_MeshPart1_MeshPart0
+    100024: Track_MeshPart1_MeshPart1
+    100026: Track_MeshPart1_MeshPart2
+    100028: Track_MeshPart2
+    100030: Track_MeshPart2_MeshPart0
+    100032: Track_MeshPart2_MeshPart1
+    100034: Track_MeshPart3
+    100036: Track_MeshPart3_MeshPart0
+    100038: Track_MeshPart3_MeshPart1
+    400000: Splitter_Curve
+    400002: Splitter_Straight
+    400004: Switch_Body
+    400006: Switch_Flag
+    400008: Switch_Lever.001
+    400010: //RootNode
+    400012: Track_MeshPart0
+    400014: Track_MeshPart0_MeshPart0
+    400016: Track_MeshPart0_MeshPart1
+    400018: Track_MeshPart0_MeshPart2
+    400020: Track_MeshPart1
+    400022: Track_MeshPart1_MeshPart0
+    400024: Track_MeshPart1_MeshPart1
+    400026: Track_MeshPart1_MeshPart2
+    400028: Track_MeshPart2
+    400030: Track_MeshPart2_MeshPart0
+    400032: Track_MeshPart2_MeshPart1
+    400034: Track_MeshPart3
+    400036: Track_MeshPart3_MeshPart0
+    400038: Track_MeshPart3_MeshPart1
+    2300000: Splitter_Curve
+    2300002: Splitter_Straight
+    2300004: Switch_Body
+    2300006: Switch_Flag
+    2300008: Switch_Lever.001
+    2300010: Track_MeshPart0_MeshPart0
+    2300012: Track_MeshPart0_MeshPart1
+    2300014: Track_MeshPart0_MeshPart2
+    2300016: Track_MeshPart1_MeshPart0
+    2300018: Track_MeshPart1_MeshPart1
+    2300020: Track_MeshPart1_MeshPart2
+    2300022: Track_MeshPart2_MeshPart0
+    2300024: Track_MeshPart2_MeshPart1
+    2300026: Track_MeshPart3_MeshPart0
+    2300028: Track_MeshPart3_MeshPart1
+    3300000: Splitter_Curve
+    3300002: Splitter_Straight
+    3300004: Switch_Body
+    3300006: Switch_Flag
+    3300008: Switch_Lever.001
+    3300010: Track_MeshPart0_MeshPart0
+    3300012: Track_MeshPart0_MeshPart1
+    3300014: Track_MeshPart0_MeshPart2
+    3300016: Track_MeshPart1_MeshPart0
+    3300018: Track_MeshPart1_MeshPart1
+    3300020: Track_MeshPart1_MeshPart2
+    3300022: Track_MeshPart2_MeshPart0
+    3300024: Track_MeshPart2_MeshPart1
+    3300026: Track_MeshPart3_MeshPart0
+    3300028: Track_MeshPart3_MeshPart1
+    4300000: Switch_Lever.001
+    4300002: Splitter_Straight
+    4300004: Switch_Flag
+    4300006: Track_MeshPart3_MeshPart0
+    4300008: Track_MeshPart3_MeshPart1
+    4300010: Switch_Body
+    4300012: Track_MeshPart1_MeshPart0
+    4300014: Track_MeshPart1_MeshPart1
+    4300016: Track_MeshPart1_MeshPart2
+    4300018: Track_MeshPart2_MeshPart0
+    4300020: Track_MeshPart2_MeshPart1
+    4300022: Track_MeshPart0_MeshPart0
+    4300024: Track_MeshPart0_MeshPart1
+    4300026: Track_MeshPart0_MeshPart2
+    4300028: Splitter_Curve
+    7400000: Switch_Lever.001|Switch_Lever.001Action
+    7400002: Switch_Lever.001|Switch_LeverAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

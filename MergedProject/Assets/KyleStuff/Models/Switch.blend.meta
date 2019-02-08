@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: a423c824c56165246b2e1a2a04b3204a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Flag
+    100004: Lever
+    100006: //RootNode
+    100008: Switch_Flag
+    100010: Switch_Lever
+    100012: Switch_Point
+    100014: Cube
+    100016: Cube_001
+    100018: Switch_Point_001
+    100020: Cube_002
+    100022: Cube_003
+    100024: Cube_004
+    100026: Boards
+    100028: Body
+    100030: Clamps
+    100032: Flag_0
+    100034: Lever_0
+    100036: Spikes
+    400000: Armature
+    400002: Flag
+    400004: Lever
+    400006: //RootNode
+    400008: Switch_Flag
+    400010: Switch_Lever
+    400012: Switch_Point
+    400014: Cube
+    400016: Cube_001
+    400018: Switch_Point_001
+    400020: Cube_002
+    400022: Cube_003
+    400024: Cube_004
+    400026: Boards
+    400028: Body
+    400030: Clamps
+    400032: Flag_0
+    400034: Lever_0
+    400036: Spikes
+    2300000: Switch_Point
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Switch_Point_001
+    2300008: Cube_002
+    2300010: Boards
+    2300012: Body
+    2300014: Clamps
+    2300016: Spikes
+    3300000: Switch_Point
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Switch_Point_001
+    3300008: Cube_002
+    3300010: Boards
+    3300012: Body
+    3300014: Clamps
+    3300016: Spikes
+    4300000: Switch_Flag
+    4300002: Switch_Lever
+    4300004: Switch_Point
+    4300006: Cube_001
+    4300008: Cube
+    4300010: Switch_Point_001
+    4300012: Cube_003
+    4300014: Cube_004
+    4300016: Cube_002
+    4300018: Boards
+    4300020: Clamps
+    4300022: Lever
+    4300024: Flag
+    4300026: Body
+    4300028: Spikes
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Switch_Flag
+    13700002: Switch_Lever
+    13700004: Cube_003
+    13700006: Cube_004
+    13700008: Flag
+    13700010: Lever
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Flag
+        weight: 1
+      - path: Armature/Lever
+        weight: 1
+      - path: Armature/Switch_Point
+        weight: 1
+      - path: Switch_Flag
+        weight: 1
+      - path: Switch_Lever
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

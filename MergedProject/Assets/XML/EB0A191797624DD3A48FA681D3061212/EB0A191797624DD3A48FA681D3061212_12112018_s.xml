@@ -1,0 +1,38 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121120181437172</sessionid>
+    <starttime>12/11/2018 2:37:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/11/2018 2:37:49 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-0, 2; 28-48.00001, 25; 36-0, 0; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121120181430547</sessionid>
+    <starttime>12/11/2018 2:30:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/11/2018 2:30:36 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-0, 2; 28-48.00001, 25; 36-0, 0; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>121120181427234</sessionid>
+    <starttime>12/11/2018 2:27:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>12/11/2018 2:27:43 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-0, 2; 28-48.00001, 25; 36-0, 0; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>

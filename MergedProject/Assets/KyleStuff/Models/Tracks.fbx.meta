@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: d256712714a906549ba0f571955379ae
+timeCreated: 1457575083
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Rail straight
+    100002: Rail straight.001
+    100004: Rail straight.002
+    100006: Rail straight.003
+    100008: Rail straight.004
+    100010: Rail straight.004_MeshPart0
+    100012: Rail straight.004_MeshPart1
+    100014: Rail straight.005
+    100016: Rail straight.006
+    100018: Rail straight.006_MeshPart0
+    100020: Rail straight.006_MeshPart1
+    100022: Rail straight.007
+    100024: Rail straight.007_MeshPart0
+    100026: Rail straight.007_MeshPart1
+    100028: Rail straight.008
+    100030: Rail straight.008_MeshPart0
+    100032: Rail straight.008_MeshPart1
+    100034: Rail straight.009
+    100036: Rail straight.009_MeshPart0
+    100038: Rail straight.009_MeshPart1
+    100040: Rail straight.010
+    100042: Rail straight.010_MeshPart0
+    100044: Rail straight.010_MeshPart1
+    100046: Rail straight.011
+    100048: Rail straight.011_MeshPart0
+    100050: Rail straight.011_MeshPart1
+    100052: Rail straight.012
+    100054: Rail straight.013
+    100056: Rail straight.013_MeshPart0
+    100058: Rail straight.013_MeshPart1
+    100060: Rail straight.013_MeshPart2
+    100062: Rail straight.013_MeshPart3
+    100064: Rail straight.014
+    100066: Rail straight.014_MeshPart0
+    100068: Rail straight.014_MeshPart1
+    100070: Rail straight.015
+    100072: Rail straight.015_MeshPart0
+    100074: Rail straight.015_MeshPart1
+    100076: Rail straight.016
+    100078: Rail straight.016_MeshPart0
+    100080: Rail straight.016_MeshPart1
+    100082: Rail straight.017
+    100084: Rail straight.017_MeshPart0
+    100086: Rail straight.017_MeshPart1
+    100088: Rail straight.018
+    100090: Rail straight.018_MeshPart0
+    100092: Rail straight.018_MeshPart1
+    100094: Rail straight.019
+    100096: Rail straight.019_MeshPart0
+    100098: Rail straight.019_MeshPart1
+    100100: Rail straight.020
+    100102: Rail straight.021
+    100104: Rail straight_MeshPart0
+    100106: Rail straight_MeshPart1
+    100108: Rail straight_MeshPart2
+    100110: Rail straight_MeshPart3
+    100112: //RootNode
+    100114: Tracks
+    100116: Tracks.001
+    100118: Tracks.002
+    100120: Tracks.003
+    100122: Tracks.004
+    100124: Tracks.005
+    100126: Tracks.006
+    100128: Tracks.007
+    100130: Tracks.008
+    100132: Tracks.009
+    100134: Tracks.010
+    100136: Tracks.011
+    100138: Tracks.012
+    100140: Tracks.013
+    100142: Tracks.014
+    100144: Tracks.015
+    100146: Tracks.016
+    100148: Tracks.017
+    100150: Tracks.018
+    100152: Tracks.019
+    100154: Tracks.020
+    100156: Tracks.021
+    400000: Rail straight
+    400002: Rail straight.001
+    400004: Rail straight.002
+    400006: Rail straight.003
+    400008: Rail straight.004
+    400010: Rail straight.004_MeshPart0
+    400012: Rail straight.004_MeshPart1
+    400014: Rail straight.005
+    400016: Rail straight.006
+    400018: Rail straight.006_MeshPart0
+    400020: Rail straight.006_MeshPart1
+    400022: Rail straight.007
+    400024: Rail straight.007_MeshPart0
+    400026: Rail straight.007_MeshPart1
+    400028: Rail straight.008
+    400030: Rail straight.008_MeshPart0
+    400032: Rail straight.008_MeshPart1
+    400034: Rail straight.009
+    400036: Rail straight.009_MeshPart0
+    400038: Rail straight.009_MeshPart1
+    400040: Rail straight.010
+    400042: Rail straight.010_MeshPart0
+    400044: Rail straight.010_MeshPart1
+    400046: Rail straight.011
+    400048: Rail straight.011_MeshPart0
+    400050: Rail straight.011_MeshPart1
+    400052: Rail straight.012
+    400054: Rail straight.013
+    400056: Rail straight.013_MeshPart0
+    400058: Rail straight.013_MeshPart1
+    400060: Rail straight.013_MeshPart2
+    400062: Rail straight.013_MeshPart3
+    400064: Rail straight.014
+    400066: Rail straight.014_MeshPart0
+    400068: Rail straight.014_MeshPart1
+    400070: Rail straight.015
+    400072: Rail straight.015_MeshPart0
+    400074: Rail straight.015_MeshPart1
+    400076: Rail straight.016
+    400078: Rail straight.016_MeshPart0
+    400080: Rail straight.016_MeshPart1
+    400082: Rail straight.017
+    400084: Rail straight.017_MeshPart0
+    400086: Rail straight.017_MeshPart1
+    400088: Rail straight.018
+    400090: Rail straight.018_MeshPart0
+    400092: Rail straight.018_MeshPart1
+    400094: Rail straight.019
+    400096: Rail straight.019_MeshPart0
+    400098: Rail straight.019_MeshPart1
+    400100: Rail straight.020
+    400102: Rail straight.021
+    400104: Rail straight_MeshPart0
+    400106: Rail straight_MeshPart1
+    400108: Rail straight_MeshPart2
+    400110: Rail straight_MeshPart3
+    400112: Tracks
+    400114: //RootNode
+    400116: Tracks.001
+    400118: Tracks.002
+    400120: Tracks.003
+    400122: Tracks.004
+    400124: Tracks.005
+    400126: Tracks.006
+    400128: Tracks.007
+    400130: Tracks.008
+    400132: Tracks.009
+    400134: Tracks.010
+    400136: Tracks.011
+    400138: Tracks.012
+    400140: Tracks.013
+    400142: Tracks.014
+    400144: Tracks.015
+    400146: Tracks.016
+    400148: Tracks.017
+    400150: Tracks.018
+    400152: Tracks.019
+    400154: Tracks.020
+    400156: Tracks.021
+    2300000: Rail straight.001
+    2300002: Rail straight.002
+    2300004: Rail straight.003
+    2300006: Rail straight.004_MeshPart0
+    2300008: Rail straight.004_MeshPart1
+    2300010: Rail straight.005
+    2300012: Rail straight.006_MeshPart0
+    2300014: Rail straight.006_MeshPart1
+    2300016: Rail straight.007_MeshPart0
+    2300018: Rail straight.007_MeshPart1
+    2300020: Rail straight.008_MeshPart0
+    2300022: Rail straight.008_MeshPart1
+    2300024: Rail straight.009_MeshPart0
+    2300026: Rail straight.009_MeshPart1
+    2300028: Rail straight.010_MeshPart0
+    2300030: Rail straight.010_MeshPart1
+    2300032: Rail straight.011_MeshPart0
+    2300034: Rail straight.011_MeshPart1
+    2300036: Rail straight.012
+    2300038: Rail straight.013_MeshPart0
+    2300040: Rail straight.013_MeshPart1
+    2300042: Rail straight.013_MeshPart2
+    2300044: Rail straight.013_MeshPart3
+    2300046: Rail straight.014_MeshPart0
+    2300048: Rail straight.014_MeshPart1
+    2300050: Rail straight.015_MeshPart0
+    2300052: Rail straight.015_MeshPart1
+    2300054: Rail straight.016_MeshPart0
+    2300056: Rail straight.016_MeshPart1
+    2300058: Rail straight.017_MeshPart0
+    2300060: Rail straight.017_MeshPart1
+    2300062: Rail straight.018_MeshPart0
+    2300064: Rail straight.018_MeshPart1
+    2300066: Rail straight.019_MeshPart0
+    2300068: Rail straight.019_MeshPart1
+    2300070: Rail straight.020
+    2300072: Rail straight.021
+    2300074: Rail straight_MeshPart0
+    2300076: Rail straight_MeshPart1
+    2300078: Rail straight_MeshPart2
+    2300080: Rail straight_MeshPart3
+    2300082: Tracks
+    2300084: Tracks.001
+    2300086: Tracks.002
+    2300088: Tracks.003
+    2300090: Tracks.004
+    2300092: Tracks.005
+    2300094: Tracks.006
+    2300096: Tracks.007
+    2300098: Tracks.008
+    2300100: Tracks.009
+    2300102: Tracks.010
+    2300104: Tracks.011
+    2300106: Tracks.012
+    2300108: Tracks.013
+    2300110: Tracks.014
+    2300112: Tracks.015
+    2300114: Tracks.016
+    2300116: Tracks.017
+    2300118: Tracks.018
+    2300120: Tracks.019
+    2300122: Tracks.020
+    2300124: Tracks.021
+    3300000: Rail straight.001
+    3300002: Rail straight.002
+    3300004: Rail straight.003
+    3300006: Rail straight.004_MeshPart0
+    3300008: Rail straight.004_MeshPart1
+    3300010: Rail straight.005
+    3300012: Rail straight.006_MeshPart0
+    3300014: Rail straight.006_MeshPart1
+    3300016: Rail straight.007_MeshPart0
+    3300018: Rail straight.007_MeshPart1
+    3300020: Rail straight.008_MeshPart0
+    3300022: Rail straight.008_MeshPart1
+    3300024: Rail straight.009_MeshPart0
+    3300026: Rail straight.009_MeshPart1
+    3300028: Rail straight.010_MeshPart0
+    3300030: Rail straight.010_MeshPart1
+    3300032: Rail straight.011_MeshPart0
+    3300034: Rail straight.011_MeshPart1
+    3300036: Rail straight.012
+    3300038: Rail straight.013_MeshPart0
+    3300040: Rail straight.013_MeshPart1
+    3300042: Rail straight.013_MeshPart2
+    3300044: Rail straight.013_MeshPart3
+    3300046: Rail straight.014_MeshPart0
+    3300048: Rail straight.014_MeshPart1
+    3300050: Rail straight.015_MeshPart0
+    3300052: Rail straight.015_MeshPart1
+    3300054: Rail straight.016_MeshPart0
+    3300056: Rail straight.016_MeshPart1
+    3300058: Rail straight.017_MeshPart0
+    3300060: Rail straight.017_MeshPart1
+    3300062: Rail straight.018_MeshPart0
+    3300064: Rail straight.018_MeshPart1
+    3300066: Rail straight.019_MeshPart0
+    3300068: Rail straight.019_MeshPart1
+    3300070: Rail straight.020
+    3300072: Rail straight.021
+    3300074: Rail straight_MeshPart0
+    3300076: Rail straight_MeshPart1
+    3300078: Rail straight_MeshPart2
+    3300080: Rail straight_MeshPart3
+    3300082: Tracks
+    3300084: Tracks.001
+    3300086: Tracks.002
+    3300088: Tracks.003
+    3300090: Tracks.004
+    3300092: Tracks.005
+    3300094: Tracks.006
+    3300096: Tracks.007
+    3300098: Tracks.008
+    3300100: Tracks.009
+    3300102: Tracks.010
+    3300104: Tracks.011
+    3300106: Tracks.012
+    3300108: Tracks.013
+    3300110: Tracks.014
+    3300112: Tracks.015
+    3300114: Tracks.016
+    3300116: Tracks.017
+    3300118: Tracks.018
+    3300120: Tracks.019
+    3300122: Tracks.020
+    3300124: Tracks.021
+    4300000: Tracks
+    4300002: Rail straight_MeshPart0
+    4300004: Rail straight_MeshPart1
+    4300006: Rail straight_MeshPart2
+    4300008: Rail straight_MeshPart3
+    4300010: Tracks.001
+    4300012: Rail straight.001
+    4300014: Tracks.002
+    4300016: Rail straight.002
+    4300018: Tracks.003
+    4300020: Rail straight.003
+    4300022: Tracks.004
+    4300024: Rail straight.004_MeshPart0
+    4300026: Rail straight.004_MeshPart1
+    4300028: Tracks.005
+    4300030: Rail straight.005
+    4300032: Tracks.006
+    4300034: Rail straight.006_MeshPart0
+    4300036: Rail straight.006_MeshPart1
+    4300038: Tracks.007
+    4300040: Rail straight.007_MeshPart0
+    4300042: Rail straight.007_MeshPart1
+    4300044: Tracks.008
+    4300046: Rail straight.008_MeshPart0
+    4300048: Rail straight.008_MeshPart1
+    4300050: Tracks.009
+    4300052: Rail straight.009_MeshPart0
+    4300054: Rail straight.009_MeshPart1
+    4300056: Tracks.010
+    4300058: Rail straight.010_MeshPart0
+    4300060: Rail straight.010_MeshPart1
+    4300062: Tracks.011
+    4300064: Rail straight.011_MeshPart0
+    4300066: Rail straight.011_MeshPart1
+    4300068: Tracks.012
+    4300070: Rail straight.012
+    4300072: Tracks.013
+    4300074: Rail straight.013_MeshPart0
+    4300076: Rail straight.013_MeshPart1
+    4300078: Rail straight.013_MeshPart2
+    4300080: Rail straight.013_MeshPart3
+    4300082: Tracks.014
+    4300084: Rail straight.014_MeshPart0
+    4300086: Rail straight.014_MeshPart1
+    4300088: Tracks.015
+    4300090: Rail straight.015_MeshPart0
+    4300092: Rail straight.015_MeshPart1
+    4300094: Tracks.016
+    4300096: Rail straight.016_MeshPart0
+    4300098: Rail straight.016_MeshPart1
+    4300100: Tracks.017
+    4300102: Rail straight.017_MeshPart0
+    4300104: Rail straight.017_MeshPart1
+    4300106: Tracks.018
+    4300108: Rail straight.018_MeshPart0
+    4300110: Rail straight.018_MeshPart1
+    4300112: Tracks.019
+    4300114: Rail straight.019_MeshPart0
+    4300116: Rail straight.019_MeshPart1
+    4300118: Tracks.020
+    4300120: Rail straight.020
+    4300122: Tracks.021
+    4300124: Rail straight.021
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

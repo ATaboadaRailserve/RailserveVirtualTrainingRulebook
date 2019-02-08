@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: d4ad8245ff9afe44689807ceec8baedc
+timeCreated: 1495743525
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Rail_Light
+    100002: Rail_Light01
+    100004: Rail_Light018
+    100006: Rail_Light019
+    100008: Rail_Light02
+    100010: Rail_Light020
+    100012: Rail_Light021
+    100014: Rail_Light022
+    100016: Rail_Light023
+    100018: Rail_Light024
+    100020: Rail_Light025
+    100022: Rail_Light026
+    100024: Rail_Light027
+    100026: Rail_Light028
+    100028: Rail_Light029
+    100030: Rail_Light03
+    100032: Rail_Light04
+    100034: Rail_Light05
+    100036: Rail_Light06
+    100038: Rail_Light07
+    100040: Rail_Light08
+    100042: //RootNode
+    400000: Rail_Light
+    400002: Rail_Light01
+    400004: Rail_Light018
+    400006: Rail_Light019
+    400008: Rail_Light02
+    400010: Rail_Light020
+    400012: Rail_Light021
+    400014: Rail_Light022
+    400016: Rail_Light023
+    400018: Rail_Light024
+    400020: Rail_Light025
+    400022: Rail_Light026
+    400024: Rail_Light027
+    400026: Rail_Light028
+    400028: Rail_Light029
+    400030: Rail_Light03
+    400032: Rail_Light04
+    400034: Rail_Light05
+    400036: Rail_Light06
+    400038: Rail_Light07
+    400040: Rail_Light08
+    400042: //RootNode
+    2300000: Rail_Light
+    2300002: Rail_Light01
+    2300004: Rail_Light018
+    2300006: Rail_Light019
+    2300008: Rail_Light02
+    2300010: Rail_Light020
+    2300012: Rail_Light021
+    2300014: Rail_Light022
+    2300016: Rail_Light023
+    2300018: Rail_Light024
+    2300020: Rail_Light025
+    2300022: Rail_Light026
+    2300024: Rail_Light027
+    2300026: Rail_Light028
+    2300028: Rail_Light029
+    2300030: Rail_Light03
+    2300032: Rail_Light04
+    2300034: Rail_Light05
+    2300036: Rail_Light06
+    2300038: Rail_Light07
+    2300040: Rail_Light08
+    3300000: Rail_Light
+    3300002: Rail_Light01
+    3300004: Rail_Light018
+    3300006: Rail_Light019
+    3300008: Rail_Light02
+    3300010: Rail_Light020
+    3300012: Rail_Light021
+    3300014: Rail_Light022
+    3300016: Rail_Light023
+    3300018: Rail_Light024
+    3300020: Rail_Light025
+    3300022: Rail_Light026
+    3300024: Rail_Light027
+    3300026: Rail_Light028
+    3300028: Rail_Light029
+    3300030: Rail_Light03
+    3300032: Rail_Light04
+    3300034: Rail_Light05
+    3300036: Rail_Light06
+    3300038: Rail_Light07
+    3300040: Rail_Light08
+    4300000: Rail_Light01
+    4300002: Rail_Light03
+    4300004: Rail_Light02
+    4300006: Rail_Light04
+    4300008: Rail_Light
+    4300010: Rail_Light05
+    4300012: Rail_Light06
+    4300014: Rail_Light08
+    4300016: Rail_Light07
+    4300018: Rail_Light018
+    4300020: Rail_Light019
+    4300022: Rail_Light020
+    4300024: Rail_Light021
+    4300026: Rail_Light022
+    4300028: Rail_Light023
+    4300030: Rail_Light024
+    4300032: Rail_Light025
+    4300034: Rail_Light026
+    4300036: Rail_Light027
+    4300038: Rail_Light028
+    4300040: Rail_Light029
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

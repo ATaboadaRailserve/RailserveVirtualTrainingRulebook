@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 544ab3578852a934ea0438d3bdcc5cb3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tankwagon_part1
+    100004: tankwagon_part2
+    100006: tankwagon_part1.001
+    400000: //RootNode
+    400002: tankwagon_part1
+    400004: tankwagon_part2
+    400006: tankwagon_part1.001
+    2300000: tankwagon_part1
+    2300002: tankwagon_part2
+    2300004: tankwagon_part1.001
+    3300000: tankwagon_part1
+    3300002: tankwagon_part2
+    3300004: tankwagon_part1.001
+    4300000: tankwagon_part2
+    4300002: tankwagon_part1
+    4300004: tankwagon_part1.001
+    7400000: tankwagon_part2|Camera|ModoAnim|Layer0
+    7400002: tankwagon_part2|locomotive_part1|ModoAnim|Layer0
+    7400004: tankwagon_part2|locomotive_part2|ModoAnim|Layer0
+    7400006: tankwagon_part2|tankwagon_part1|ModoAnim|Layer0
+    7400008: tankwagon_part2|tankwagon_part2|ModoAnim|Layer0
+    7400010: tankwagon_part2|tankwagon_part2|ModoAnim|Layer0.001
+    7400012: tankwagon_part2|wagon1_door1|ModoAnim|Layer0
+    7400014: tankwagon_part2|wagon1_door2|ModoAnim|Layer0
+    7400016: tankwagon_part2|wagon1_part1|ModoAnim|Layer0
+    7400018: tankwagon_part2|wagon2_door1|ModoAnim|Layer0
+    7400020: tankwagon_part2|wagon2_door2|ModoAnim|Layer0
+    7400022: tankwagon_part2|wagon2_part1|ModoAnim|Layer0
+    7400024: tankwagon_part2|wagon3_door1|ModoAnim|Layer0
+    7400026: tankwagon_part2|wagon3_door2|ModoAnim|Layer0
+    7400028: tankwagon_part2|wagon3_part1|ModoAnim|Layer0
+    7400030: tankwagon_part1|Camera|ModoAnim|Layer0
+    7400032: tankwagon_part1|locomotive_part1|ModoAnim|Layer0
+    7400034: tankwagon_part1|locomotive_part2|ModoAnim|Layer0
+    7400036: tankwagon_part1|tankwagon_part1|ModoAnim|Layer0
+    7400038: tankwagon_part1|tankwagon_part2|ModoAnim|Layer0
+    7400040: tankwagon_part1|tankwagon_part2|ModoAnim|Layer0.001
+    7400042: tankwagon_part1|wagon1_door1|ModoAnim|Layer0
+    7400044: tankwagon_part1|wagon1_door2|ModoAnim|Layer0
+    7400046: tankwagon_part1|wagon1_part1|ModoAnim|Layer0
+    7400048: tankwagon_part1|wagon2_door1|ModoAnim|Layer0
+    7400050: tankwagon_part1|wagon2_door2|ModoAnim|Layer0
+    7400052: tankwagon_part1|wagon2_part1|ModoAnim|Layer0
+    7400054: tankwagon_part1|wagon3_door1|ModoAnim|Layer0
+    7400056: tankwagon_part1|wagon3_door2|ModoAnim|Layer0
+    7400058: tankwagon_part1|wagon3_part1|ModoAnim|Layer0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

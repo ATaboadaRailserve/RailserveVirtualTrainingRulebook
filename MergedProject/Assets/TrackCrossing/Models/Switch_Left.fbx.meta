@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 267abc6388a177041ab787597e729222
+timeCreated: 1458711868
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Connection
+    100002: Frog
+    100004: Gravel_Straight
+    100006: Gravel_Turn
+    100008: Logs_N_Spikes
+    100010: Logs_N_Spikes_MeshPart0
+    100012: Logs_N_Spikes_MeshPart1
+    100014: Rails_Outter
+    100016: SplitConnection
+    100018: Splitter_Curve
+    100020: Splitter_Straight
+    100022: //RootNode
+    400000: Connection
+    400002: Frog
+    400004: Gravel_Straight
+    400006: Gravel_Turn
+    400008: Logs_N_Spikes
+    400010: Logs_N_Spikes_MeshPart0
+    400012: Logs_N_Spikes_MeshPart1
+    400014: Rails_Outter
+    400016: SplitConnection
+    400018: Splitter_Curve
+    400020: Splitter_Straight
+    400022: //RootNode
+    2300000: Frog
+    2300002: Gravel_Straight
+    2300004: Gravel_Turn
+    2300006: Logs_N_Spikes_MeshPart0
+    2300008: Logs_N_Spikes_MeshPart1
+    2300010: Rails_Outter
+    2300012: Splitter_Curve
+    2300014: Splitter_Straight
+    3300000: Frog
+    3300002: Gravel_Straight
+    3300004: Gravel_Turn
+    3300006: Logs_N_Spikes_MeshPart0
+    3300008: Logs_N_Spikes_MeshPart1
+    3300010: Rails_Outter
+    3300012: Splitter_Curve
+    3300014: Splitter_Straight
+    4300000: Splitter_Straight
+    4300002: Frog
+    4300004: Splitter_Curve
+    4300006: Rails_Outter
+    4300008: Gravel_Turn
+    4300010: Gravel_Straight
+    4300012: Logs_N_Spikes_MeshPart0
+    4300014: Logs_N_Spikes_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

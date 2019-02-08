@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Train Whistle short and fail_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="1.6160000000" vpos="160" h="0.0000000000" zoom="490.7178217822" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="train-whistle-01-soundjay" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25967">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d72.au" len="25967" min="-0.610718" max="0.685672" rms="0.188815"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="train-whistle-01-soundjay" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25967">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b0.au" len="25967" min="-0.72524" max="0.799454" rms="0.275345"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="train-whistle-01-soundjay" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.17337500">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="69246">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004ef.au" len="69246" min="-0.773816" max="0.837823" rms="0.13874"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="train-whistle-01-soundjay" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.17337500">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="69246">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ab8.au" len="69246" min="-0.511299" max="0.726287" rms="0.116144"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Mix" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="77568">
+				<waveblock start="0">
+					<simpleblockfile filename="e000081c.au" len="77568" min="-0.30301" max="0.305259" rms="0.058276"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Mix" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="77568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000dc5.au" len="77568" min="-0.309266" max="0.400451" rms="0.070554"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

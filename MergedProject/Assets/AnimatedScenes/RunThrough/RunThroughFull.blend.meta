@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 310a441a54f21b14f8f76da84d838a31
+timeCreated: 1472759980
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Leaf
+    100002: Leaf_001
+    100004: Leaf_002
+    100006: Leaf_003
+    100008: Leaf_004
+    100010: Leaf_005
+    100012: Leaf_006
+    100014: Leaf_007
+    100016: Leaf_008
+    100018: //RootNode
+    100020: Splitter_Curve
+    100022: Splitter_Straight
+    100024: Switch_Body
+    100026: Switch_Flag
+    100028: Switch_Lever
+    100030: Track
+    100032: Track_MeshPart0
+    100034: Track_MeshPart1
+    100036: Track_MeshPart2
+    100038: Track_MeshPart3
+    100040: Leaf_WheelSet_01
+    100042: Leaf_WheelSet_02
+    100044: Leaf_WheelSet_03
+    100046: Leaf_WheelSet_04
+    400000: Leaf
+    400002: Leaf_001
+    400004: Leaf_002
+    400006: Leaf_003
+    400008: Leaf_004
+    400010: Leaf_005
+    400012: Leaf_006
+    400014: Leaf_007
+    400016: Leaf_008
+    400018: //RootNode
+    400020: Splitter_Curve
+    400022: Splitter_Straight
+    400024: Switch_Body
+    400026: Switch_Flag
+    400028: Switch_Lever
+    400030: Track
+    400032: Track_MeshPart0
+    400034: Track_MeshPart1
+    400036: Track_MeshPart2
+    400038: Track_MeshPart3
+    400040: Leaf_WheelSet_01
+    400042: Leaf_WheelSet_02
+    400044: Leaf_WheelSet_03
+    400046: Leaf_WheelSet_04
+    2300000: Leaf
+    2300002: Leaf_001
+    2300004: Leaf_002
+    2300006: Leaf_003
+    2300008: Leaf_004
+    2300010: Leaf_005
+    2300012: Leaf_006
+    2300014: Leaf_007
+    2300016: Leaf_008
+    2300018: Splitter_Curve
+    2300020: Splitter_Straight
+    2300022: Switch_Body
+    2300024: Switch_Flag
+    2300026: Switch_Lever
+    2300028: Track_MeshPart0
+    2300030: Track_MeshPart1
+    2300032: Track_MeshPart2
+    2300034: Track_MeshPart3
+    2300036: Leaf_WheelSet_01
+    2300038: Leaf_WheelSet_02
+    2300040: Leaf_WheelSet_03
+    2300042: Leaf_WheelSet_04
+    3300000: Leaf
+    3300002: Leaf_001
+    3300004: Leaf_002
+    3300006: Leaf_003
+    3300008: Leaf_004
+    3300010: Leaf_005
+    3300012: Leaf_006
+    3300014: Leaf_007
+    3300016: Leaf_008
+    3300018: Splitter_Curve
+    3300020: Splitter_Straight
+    3300022: Switch_Body
+    3300024: Switch_Flag
+    3300026: Switch_Lever
+    3300028: Track_MeshPart0
+    3300030: Track_MeshPart1
+    3300032: Track_MeshPart2
+    3300034: Track_MeshPart3
+    3300036: Leaf_WheelSet_01
+    3300038: Leaf_WheelSet_02
+    3300040: Leaf_WheelSet_03
+    3300042: Leaf_WheelSet_04
+    4300000: Leaf_008
+    4300002: Leaf_007
+    4300004: Leaf_005
+    4300006: Leaf_004
+    4300008: Leaf_002
+    4300010: Leaf_001
+    4300012: Track_MeshPart0
+    4300014: Track_MeshPart1
+    4300016: Track_MeshPart2
+    4300018: Track_MeshPart3
+    4300020: Splitter_Curve
+    4300022: Splitter_Straight
+    4300024: Leaf
+    4300026: Leaf_006
+    4300028: Leaf_003
+    4300030: Switch_Lever
+    4300032: Switch_Body
+    4300034: Switch_Flag
+    4300036: Leaf_WheelSet_04
+    4300038: Leaf_WheelSet_01
+    4300040: Leaf_WheelSet_03
+    4300042: Leaf_WheelSet_02
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 4
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 2929
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Leaf
+        weight: 1
+      - path: Leaf_001
+        weight: 1
+      - path: Leaf_002
+        weight: 1
+      - path: Leaf_003
+        weight: 1
+      - path: Leaf_004
+        weight: 1
+      - path: Leaf_005
+        weight: 1
+      - path: Leaf_006
+        weight: 1
+      - path: Leaf_007
+        weight: 1
+      - path: Leaf_008
+        weight: 1
+      - path: Splitter_Curve
+        weight: 1
+      - path: Splitter_Straight
+        weight: 1
+      - path: Switch_Body
+        weight: 1
+      - path: Switch_Flag
+        weight: 1
+      - path: Switch_Lever
+        weight: 1
+      - path: Track
+        weight: 1
+      - path: Track/Track_MeshPart0
+        weight: 1
+      - path: Track/Track_MeshPart1
+        weight: 1
+      - path: Track/Track_MeshPart2
+        weight: 1
+      - path: Track/Track_MeshPart3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

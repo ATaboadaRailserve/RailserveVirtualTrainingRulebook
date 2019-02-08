@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: e4b2038b9098a1a4d8afd4725370acda
+timeCreated: 1460668306
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ceiling
+    100004: Door_Door
+    100006: Door_Frame
+    100008: Door_Knob
+    100010: Floor
+    100012: Interior_Walls
+    100014: Roof
+    100016: Walls
+    100018: Window_Walls
+    100020: Windows
+    100022: Frames
+    100024: Roof_Frame
+    100026: Roof_Roof
+    100028: Window_Frames
+    400000: //RootNode
+    400002: Ceiling
+    400004: Door_Door
+    400006: Door_Frame
+    400008: Door_Knob
+    400010: Floor
+    400012: Interior_Walls
+    400014: Roof
+    400016: Walls
+    400018: Window_Walls
+    400020: Windows
+    400022: Frames
+    400024: Roof_Frame
+    400026: Roof_Roof
+    400028: Window_Frames
+    2300000: Ceiling
+    2300002: Door_Door
+    2300004: Door_Frame
+    2300006: Door_Knob
+    2300008: Floor
+    2300010: Interior_Walls
+    2300012: Roof
+    2300014: Walls
+    2300016: Window_Walls
+    2300018: Windows
+    2300020: Frames
+    2300022: Roof_Frame
+    2300024: Roof_Roof
+    2300026: Window_Frames
+    3300000: Ceiling
+    3300002: Door_Door
+    3300004: Door_Frame
+    3300006: Door_Knob
+    3300008: Floor
+    3300010: Interior_Walls
+    3300012: Roof
+    3300014: Walls
+    3300016: Window_Walls
+    3300018: Windows
+    3300020: Frames
+    3300022: Roof_Frame
+    3300024: Roof_Roof
+    3300026: Window_Frames
+    4300000: Window_Walls
+    4300002: Interior_Walls
+    4300004: Ceiling
+    4300006: Floor
+    4300008: Roof
+    4300010: Door_Frame
+    4300012: Door_Door
+    4300014: Door_Knob
+    4300016: Windows
+    4300018: Walls
+    4300020: Frames
+    4300022: Roof_Frame
+    4300024: Roof_Roof
+    4300026: Window_Frames
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

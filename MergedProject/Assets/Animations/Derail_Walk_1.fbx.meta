@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: fc505658135ce484bbf8cdbfa343fc92
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Skeleton1_Head
+    100004: Skeleton1_Hips
+    100006: Skeleton1_LeftArm
+    100008: Skeleton1_LeftFoot
+    100010: Skeleton1_LeftForeArm
+    100012: Skeleton1_LeftHand
+    100014: Skeleton1_LeftLeg
+    100016: Skeleton1_LeftShoulder
+    100018: Skeleton1_LeftToeBase
+    100020: Skeleton1_LeftUpLeg
+    100022: Skeleton1_Neck
+    100024: Skeleton1_RightArm
+    100026: Skeleton1_RightFoot
+    100028: Skeleton1_RightForeArm
+    100030: Skeleton1_RightHand
+    100032: Skeleton1_RightLeg
+    100034: Skeleton1_RightShoulder
+    100036: Skeleton1_RightToeBase
+    100038: Skeleton1_RightUpLeg
+    100040: Skeleton1_Spine
+    100042: Skeleton1_Spine1
+    400000: //RootNode
+    400002: Skeleton1_Head
+    400004: Skeleton1_Hips
+    400006: Skeleton1_LeftArm
+    400008: Skeleton1_LeftFoot
+    400010: Skeleton1_LeftForeArm
+    400012: Skeleton1_LeftHand
+    400014: Skeleton1_LeftLeg
+    400016: Skeleton1_LeftShoulder
+    400018: Skeleton1_LeftToeBase
+    400020: Skeleton1_LeftUpLeg
+    400022: Skeleton1_Neck
+    400024: Skeleton1_RightArm
+    400026: Skeleton1_RightFoot
+    400028: Skeleton1_RightForeArm
+    400030: Skeleton1_RightHand
+    400032: Skeleton1_RightLeg
+    400034: Skeleton1_RightShoulder
+    400036: Skeleton1_RightToeBase
+    400038: Skeleton1_RightUpLeg
+    400040: Skeleton1_Spine
+    400042: Skeleton1_Spine1
+    7400000: Derail_Walk_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Derail_Walk_1
+      takeName: FlipDerail_Walk
+      firstFrame: 150
+      lastFrame: 296
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: -0.08
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton1_Hips
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_LeftUpLeg
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_LeftUpLeg/Skeleton1_LeftLeg
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_LeftUpLeg/Skeleton1_LeftLeg/Skeleton1_LeftFoot
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_LeftUpLeg/Skeleton1_LeftLeg/Skeleton1_LeftFoot/Skeleton1_LeftToeBase
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_RightUpLeg
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_RightUpLeg/Skeleton1_RightLeg
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_RightUpLeg/Skeleton1_RightLeg/Skeleton1_RightFoot
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_RightUpLeg/Skeleton1_RightLeg/Skeleton1_RightFoot/Skeleton1_RightToeBase
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_LeftShoulder
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_LeftShoulder/Skeleton1_LeftArm
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_LeftShoulder/Skeleton1_LeftArm/Skeleton1_LeftForeArm
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_LeftShoulder/Skeleton1_LeftArm/Skeleton1_LeftForeArm/Skeleton1_LeftHand
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_Neck
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_Neck/Skeleton1_Head
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_RightShoulder
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_RightShoulder/Skeleton1_RightArm
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_RightShoulder/Skeleton1_RightArm/Skeleton1_RightForeArm
+        weight: 1
+      - path: Skeleton1_Hips/Skeleton1_Spine/Skeleton1_Spine1/Skeleton1_RightShoulder/Skeleton1_RightArm/Skeleton1_RightForeArm/Skeleton1_RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Skeleton1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton1_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Derail_Walk_1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_Hips
+      parentName: Derail_Walk_1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: -0.014143717, y: -0.003397714, z: 0.008322703, w: 0.9998596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftUpLeg
+      parentName: Skeleton1_Hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.014150837, y: 0.0060895635, z: -0.016376682, w: 0.9997472}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftLeg
+      parentName: Skeleton1_LeftUpLeg
+      position: {x: -0, y: -0, z: 0}
+      rotation: {x: 0.14979585, y: -0.041342027, z: -0.0065166703, w: 0.98783076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftFoot
+      parentName: Skeleton1_LeftLeg
+      position: {x: 0, y: -0, z: 0}
+      rotation: {x: -0.119931765, y: -0.12339929, z: 0.03467226, w: 0.9844729}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftToeBase
+      parentName: Skeleton1_LeftFoot
+      position: {x: -0, y: -0, z: 0}
+      rotation: {x: 0.003853798, y: 0.00637228, z: -0.0018246174, w: 0.9999706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightUpLeg
+      parentName: Skeleton1_Hips
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.008181003, y: 0.014488916, z: 0.026822817, w: 0.99950176}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightLeg
+      parentName: Skeleton1_RightUpLeg
+      position: {x: -0, y: -0, z: 0}
+      rotation: {x: 0.12189878, y: -0.022258721, z: -0.025883226, w: 0.9919553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightFoot
+      parentName: Skeleton1_RightLeg
+      position: {x: 0, y: -0, z: 0}
+      rotation: {x: -0.10348273, y: 0.24694434, z: -0.05971541, w: 0.96163607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightToeBase
+      parentName: Skeleton1_RightFoot
+      position: {x: -0, y: -0, z: 0}
+      rotation: {x: 0.0024806855, y: -0.022078944, z: 0.007183369, w: 0.99972737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_Spine
+      parentName: Skeleton1_Hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.08457785, y: -0.010764565, z: 0.011180438, w: 0.99629605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_Spine1
+      parentName: Skeleton1_Spine
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.059041798, y: -0.003609238, z: -0.02787011, w: 0.9978599}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftShoulder
+      parentName: Skeleton1_Spine1
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0.24261907, y: -0.006026848, z: 0.08832284, w: 0.96607393}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftArm
+      parentName: Skeleton1_LeftShoulder
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.2978396, y: 0.4517174, z: 0.31529516, w: 0.7796358}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftForeArm
+      parentName: Skeleton1_LeftArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.10974423, y: 0.18728806, z: -0.051088504, w: 0.97481763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_LeftHand
+      parentName: Skeleton1_LeftForeArm
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: -0.11169113, y: 0.016982393, z: 0.055207655, w: 0.9920629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_Neck
+      parentName: Skeleton1_Spine1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.18595493, y: 0.0128852, z: 0.03209272, w: 0.9819495}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_Head
+      parentName: Skeleton1_Neck
+      position: {x: 0, y: 0, z: -0}
+      rotation: {x: -0.00594196, y: 0.0017557485, z: -0.05105131, w: 0.99867684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightShoulder
+      parentName: Skeleton1_Spine1
+      position: {x: 0, y: 0, z: -0}
+      rotation: {x: 0.33653474, y: -0.037501313, z: -0.06459154, w: 0.93870443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightArm
+      parentName: Skeleton1_RightShoulder
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.14742409, y: -0.43395776, z: -0.28780854, w: 0.8409002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightForeArm
+      parentName: Skeleton1_RightArm
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.09282017, y: -0.19182247, z: -0.0038013177, w: 0.9770231}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton1_RightHand
+      parentName: Skeleton1_RightForeArm
+      position: {x: 0, y: -0, z: 0}
+      rotation: {x: -0.09454182, y: 0.018507121, z: -0.019104376, w: 0.9951655}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

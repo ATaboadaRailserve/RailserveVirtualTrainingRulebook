@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 6d05607d90734b1419981c87a9a2b8f6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Grass
+    100002: Grass_MeshPart0
+    100004: Grass_MeshPart1
+    100006: Gravel
+    100008: //RootNode
+    100010: Transition
+    100012: Grass_Lower
+    100014: Grass_Upper
+    100016: Road
+    100018: Road_001
+    100020: Road_001_MeshPart0
+    100022: Road_001_MeshPart1
+    100024: Extreme_Lower
+    100026: Yard_Lower
+    100028: Yard_Upper
+    100030: Plane
+    100032: Fence
+    100034: Yard_Lower_001
+    100036: Yard_Upper_001
+    100038: Yard_Upper_002
+    400000: Grass
+    400002: Grass_MeshPart0
+    400004: Grass_MeshPart1
+    400006: Gravel
+    400008: //RootNode
+    400010: Transition
+    400012: Grass_Lower
+    400014: Grass_Upper
+    400016: Road
+    400018: Road_001
+    400020: Road_001_MeshPart0
+    400022: Road_001_MeshPart1
+    400024: Extreme_Lower
+    400026: Yard_Lower
+    400028: Yard_Upper
+    400030: Plane
+    400032: Fence
+    400034: Yard_Lower_001
+    400036: Yard_Upper_001
+    400038: Yard_Upper_002
+    2300000: Grass_MeshPart0
+    2300002: Grass_MeshPart1
+    2300004: Gravel
+    2300006: Transition
+    2300008: Grass_Lower
+    2300010: Grass_Upper
+    2300012: Road
+    2300014: Road_001
+    2300016: Road_001_MeshPart0
+    2300018: Road_001_MeshPart1
+    2300020: Extreme_Lower
+    2300022: Yard_Lower
+    2300024: Yard_Upper
+    2300026: Plane
+    2300028: Fence
+    2300030: Yard_Lower_001
+    2300032: Yard_Upper_001
+    2300034: Yard_Upper_002
+    3300000: Grass_MeshPart0
+    3300002: Grass_MeshPart1
+    3300004: Gravel
+    3300006: Transition
+    3300008: Grass_Lower
+    3300010: Grass_Upper
+    3300012: Road
+    3300014: Road_001
+    3300016: Road_001_MeshPart0
+    3300018: Road_001_MeshPart1
+    3300020: Extreme_Lower
+    3300022: Yard_Lower
+    3300024: Yard_Upper
+    3300026: Plane
+    3300028: Fence
+    3300030: Yard_Lower_001
+    3300032: Yard_Upper_001
+    3300034: Yard_Upper_002
+    4300000: Grass_MeshPart0
+    4300002: Grass_MeshPart1
+    4300004: Gravel
+    4300006: Transition
+    4300008: Grass_Lower
+    4300010: Grass_Upper
+    4300012: Road
+    4300014: Road_001
+    4300016: Road_001_MeshPart0
+    4300018: Road_001_MeshPart1
+    4300020: Extreme_Lower
+    4300022: Yard_Lower
+    4300024: Yard_Upper
+    4300026: Plane
+    4300028: Fence
+    4300030: Yard_Lower_001
+    4300032: Yard_Upper_001
+    4300034: Yard_Upper_002
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

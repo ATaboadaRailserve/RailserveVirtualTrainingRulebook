@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 1fc3a5de312b07b449d9bc7740c9056f
+timeCreated: 1468351039
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_002
+    100002: Clamps
+    100004: Flag
+    100006: Frog
+    100008: Gravel_Turn
+    100010: Lever
+    100012: Logs_N_Spikes
+    100014: Logs_N_Spikes_MeshPart0
+    100016: Logs_N_Spikes_MeshPart1
+    100018: Rail
+    100020: Rail_001
+    100022: Rail_002
+    100024: Rail_002_MeshPart0
+    100026: Rail_002_MeshPart1
+    100028: Rails_Outter
+    100030: //RootNode
+    100032: Spikes
+    100034: Splitter_Curve
+    100036: Splitter_Straight
+    100038: tankwagon_part1_001
+    100040: Leaf
+    100042: Switch_Body
+    100044: Switch_Flag
+    100046: Switch_Lever
+    100048: Track
+    100050: Track_MeshPart0
+    100052: Track_MeshPart1
+    100054: Track_MeshPart2
+    100056: Track_MeshPart3
+    100058: Leaf_001
+    100060: Leaf_002
+    100062: Leaf_003
+    100064: Leaf_004
+    100066: Leaf_005
+    100068: Leaf_006
+    100070: Leaf_007
+    100072: Leaf_008
+    400000: Body_002
+    400002: Clamps
+    400004: Flag
+    400006: Frog
+    400008: Gravel_Turn
+    400010: Lever
+    400012: Logs_N_Spikes
+    400014: Logs_N_Spikes_MeshPart0
+    400016: Logs_N_Spikes_MeshPart1
+    400018: Rail
+    400020: Rail_001
+    400022: Rail_002
+    400024: Rail_002_MeshPart0
+    400026: Rail_002_MeshPart1
+    400028: Rails_Outter
+    400030: //RootNode
+    400032: Spikes
+    400034: Splitter_Curve
+    400036: Splitter_Straight
+    400038: tankwagon_part1_001
+    400040: Leaf
+    400042: Switch_Body
+    400044: Switch_Flag
+    400046: Switch_Lever
+    400048: Track
+    400050: Track_MeshPart0
+    400052: Track_MeshPart1
+    400054: Track_MeshPart2
+    400056: Track_MeshPart3
+    400058: Leaf_001
+    400060: Leaf_002
+    400062: Leaf_003
+    400064: Leaf_004
+    400066: Leaf_005
+    400068: Leaf_006
+    400070: Leaf_007
+    400072: Leaf_008
+    2300000: Body_002
+    2300002: Clamps
+    2300004: Flag
+    2300006: Frog
+    2300008: Gravel_Turn
+    2300010: Lever
+    2300012: Logs_N_Spikes_MeshPart0
+    2300014: Logs_N_Spikes_MeshPart1
+    2300016: Rail
+    2300018: Rail_001
+    2300020: Rail_002_MeshPart0
+    2300022: Rail_002_MeshPart1
+    2300024: Rails_Outter
+    2300026: Spikes
+    2300028: Splitter_Curve
+    2300030: Splitter_Straight
+    2300032: tankwagon_part1_001
+    2300034: Leaf
+    2300036: Switch_Body
+    2300038: Switch_Flag
+    2300040: Switch_Lever
+    2300042: Track_MeshPart0
+    2300044: Track_MeshPart1
+    2300046: Track_MeshPart2
+    2300048: Track_MeshPart3
+    2300050: Leaf_001
+    2300052: Leaf_002
+    2300054: Leaf_003
+    2300056: Leaf_004
+    2300058: Leaf_005
+    2300060: Leaf_006
+    2300062: Leaf_007
+    2300064: Leaf_008
+    3300000: Body_002
+    3300002: Clamps
+    3300004: Flag
+    3300006: Frog
+    3300008: Gravel_Turn
+    3300010: Lever
+    3300012: Logs_N_Spikes_MeshPart0
+    3300014: Logs_N_Spikes_MeshPart1
+    3300016: Rail
+    3300018: Rail_001
+    3300020: Rail_002_MeshPart0
+    3300022: Rail_002_MeshPart1
+    3300024: Rails_Outter
+    3300026: Spikes
+    3300028: Splitter_Curve
+    3300030: Splitter_Straight
+    3300032: tankwagon_part1_001
+    3300034: Leaf
+    3300036: Switch_Body
+    3300038: Switch_Flag
+    3300040: Switch_Lever
+    3300042: Track_MeshPart0
+    3300044: Track_MeshPart1
+    3300046: Track_MeshPart2
+    3300048: Track_MeshPart3
+    3300050: Leaf_001
+    3300052: Leaf_002
+    3300054: Leaf_003
+    3300056: Leaf_004
+    3300058: Leaf_005
+    3300060: Leaf_006
+    3300062: Leaf_007
+    3300064: Leaf_008
+    4300000: Rail_002_MeshPart0
+    4300002: Rail_002_MeshPart1
+    4300004: Rail_001
+    4300006: Rail
+    4300008: Logs_N_Spikes_MeshPart0
+    4300010: Logs_N_Spikes_MeshPart1
+    4300012: Rails_Outter
+    4300014: Gravel_Turn
+    4300016: Splitter_Curve
+    4300018: Frog
+    4300020: Splitter_Straight
+    4300022: tankwagon_part1_001
+    4300024: Lever
+    4300026: Body_002
+    4300028: Clamps
+    4300030: Flag
+    4300032: Spikes
+    4300034: Track_MeshPart0
+    4300036: Track_MeshPart1
+    4300038: Track_MeshPart2
+    4300040: Track_MeshPart3
+    4300042: Leaf
+    4300044: Switch_Lever
+    4300046: Switch_Body
+    4300048: Switch_Flag
+    4300050: Leaf_008
+    4300052: Leaf_007
+    4300054: Leaf_005
+    4300056: Leaf_004
+    4300058: Leaf_002
+    4300060: Leaf_001
+    4300062: Leaf_006
+    4300064: Leaf_003
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 4
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 1889
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Leaf
+        weight: 1
+      - path: Leaf_001
+        weight: 1
+      - path: Leaf_002
+        weight: 1
+      - path: Leaf_003
+        weight: 1
+      - path: Leaf_004
+        weight: 1
+      - path: Leaf_005
+        weight: 1
+      - path: Leaf_006
+        weight: 1
+      - path: Leaf_007
+        weight: 1
+      - path: Leaf_008
+        weight: 1
+      - path: Splitter_Curve
+        weight: 1
+      - path: Splitter_Straight
+        weight: 1
+      - path: Switch_Body
+        weight: 1
+      - path: Switch_Flag
+        weight: 1
+      - path: Switch_Lever
+        weight: 1
+      - path: Track
+        weight: 1
+      - path: Track/Track_MeshPart0
+        weight: 1
+      - path: Track/Track_MeshPart1
+        weight: 1
+      - path: Track/Track_MeshPart2
+        weight: 1
+      - path: Track/Track_MeshPart3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

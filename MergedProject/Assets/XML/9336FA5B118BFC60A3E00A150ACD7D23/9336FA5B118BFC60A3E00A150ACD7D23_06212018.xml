@@ -1,0 +1,38 @@
+<items>
+  <item>
+    <username>rguo</username>
+    <userid>6</userid>
+    <gender>2</gender>
+    <moduleid>13</moduleid>
+    <sessionid>62120182054382</sessionid>
+    <starttime>6/21/2018 8:56:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>6/21/2018 8:56:49 PM | Video complete.</message>
+    <procedure>15</procedure>
+    <gamefactors>15-68.74998, 16; 28-0, 2; 43-0, 3</gamefactors>
+  </item>
+  <item>
+    <username>rguo</username>
+    <userid>6</userid>
+    <gender>2</gender>
+    <moduleid>13</moduleid>
+    <sessionid>62120182054382</sessionid>
+    <starttime>6/21/2018 8:56:49 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>6/21/2018 8:56:49 PM | 100</message>
+    <procedure>15</procedure>
+    <gamefactors>15-68.74998, 16; 28-0, 2; 43-0, 3</gamefactors>
+  </item>
+  <item>
+    <username>rguo</username>
+    <userid>6</userid>
+    <gender>2</gender>
+    <moduleid>13</moduleid>
+    <sessionid>62120182054382</sessionid>
+    <starttime>6/21/2018 8:55:16 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>6/21/2018 8:55:16 PM | Training Started</message>
+    <procedure>15</procedure>
+    <gamefactors> 15-68.74998, 16; 28-0, 2; 43-0, 3</gamefactors>
+  </item>
+</items>
