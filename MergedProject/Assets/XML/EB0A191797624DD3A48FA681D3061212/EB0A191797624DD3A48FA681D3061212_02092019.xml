@@ -1,0 +1,50 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>2920191528399</sessionid>
+    <starttime>2/9/2019 3:28:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/9/2019 3:28:33 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>2920191516826</sessionid>
+    <starttime>2/9/2019 3:16:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/9/2019 3:16:48 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>292019158291</sessionid>
+    <starttime>2/9/2019 3:09:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/9/2019 3:09:12 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>13</moduleid>
+    <sessionid>292019158291</sessionid>
+    <starttime>2/9/2019 3:08:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/9/2019 3:08:43 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>
