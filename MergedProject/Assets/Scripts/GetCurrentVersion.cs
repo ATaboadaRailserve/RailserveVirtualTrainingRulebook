@@ -8,7 +8,7 @@ public class GetCurrentVersion : MonoBehaviour {
 	
 	public Text versionText;
 	
-	private string versionOverride = "1.0.0.3";
+	private string versionOverride = "1.0.0.4";
 	
 	void Start () {
 		versionText.text = "Ver." + new LauncherManager().GetCurrentVersion();
