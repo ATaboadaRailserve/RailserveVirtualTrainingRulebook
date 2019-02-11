@@ -1,0 +1,967 @@
+[Log]Cursor Escaped
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Ver. 1.0.0.4
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Fields Added
+[Log]Opening WWW...
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+[Log]Test Ok
+[Log]Checking D:\Kyle Brannon\Documents\Railserve\MergedProject\Assets\XML\EB0A191797624DD3A48FA681D3061212\EB0A191797624DD3A48FA681D3061212_12192018_s.xml
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+[Log]Got this user -- Successfully connected!UserID:1|First Name:Master|Last Name:Account|Gender:1|Username:Master|Training Status: 72|Game Factors: 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31|
+[Log]Successfully connected!UserID:1|First Name:Master|Last Name:Account|Gender:1|Username:Master|Training Status: 72|Game Factors: 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31|
+[Log]Current Username: master Current First Name: Master Current Last Name: Account
+[Log]The file EB0A191797624DD3A48FA681D3061212_02112019.xml exists.
+[Log]Retrieving Data from Local
+[Log]The file EB0A191797624DD3A48FA681D3061212_02112019.xml exists.
+Rewired: Only one Rewired Input Manager may exist in a scene. This additional Rewired Input Manager game object will be deleted. You may see this warning if you are loading a new level that contains a Rewired Input Manager. If that's the case, you can safely ignore this warning. This warning will never be logged in a build.
+[Log]Menu procedureStatus read as: 44
+[Log]dataLoader userName: master | gender: 1 | procedureStatus: 72 | Game Factors:  15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-20, 15; 43-6.4516154838709, 31
+[Log]Cursor No Longer Escaped
+Leaving Scene: 
+Loading Scene: MainMenu
+[Warning]No MovieTexture found on Plane. Skipping movie.
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+[Log]11:63
+[Log]61:63
+[Log]51:63
+[Log]30:63
+[Log]21:63
+[Log]63:63
+[Log]Uber procedure active state set to False
+[Log]40:63
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Left clicked object: Walls at position (0.0, 0.0, 2.0)
+[Log]Menu procedureStatus read as: 44
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Left clicked object: Walls at position (0.0, 0.0, 2.0)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.6, 0.0, 0.8)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Left clicked object: Walls at position (0.0, 0.0, 2.0)
+PAGE 3 IS OPEN
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.7, 0.0, 0.7)
+
+Rotation: (0.0, 0.8, 0.0, 0.7)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Left clicked object: Walls at position (0.0, 0.0, 2.0)
+[Log]Check Database Connection...
+[Log]Opening WWW...
+[Log]Connection is Good!
+[Log]Pushing Messages
+[Log]Attempted to push no messages
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Asset 'Rick_Controller': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Rewired: Only one Rewired Input Manager may exist in a scene. This additional Rewired Input Manager game object will be deleted. You may see this warning if you are loading a new level that contains a Rewired Input Manager. If that's the case, you can safely ignore this warning. This warning will never be logged in a build.
+[Log]Cursor No Longer Escaped
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Mesh 'tankwagon_part1' has more materials (2) than subsets (1)
+Leaving Scene: 
+Loading Scene: WK_Comms
+[Log]MessageHolder Counter: 0
+[Log]Checking for Dupes
+[Log]14
+[Log]Write Training Started
+[Log]Check Database Connection...
+[Log]Opening WWW...
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+[Warning]No interactionHandler found
+[Warning]No interactionHandler found
+[Log]Connection is Good!
+[Log]Pushing Messages
+[Log]0: 2/11/2019 4:35:34 PM | Training Started
+[Log]The file EB0A191797624DD3A48FA681D3061212_02112019.xml exists.
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Opening WWW...
+[Log]events were inserted!
+[Log]Successfully connected!Your data was recorded into eventtable
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.4)
+
+Rotation: (0.0, 0.9, 0.0, -0.3)
+
+Rotation: (0.0, 0.9, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.3)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.2)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, -0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.0)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.1)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.2)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.1)
+
+Position: (68.6, 1.0, 40.0)
+
+Position: (68.6, 1.0, 40.0)
+
+Position: (68.6, 1.0, 40.0)
+
+Position: (68.7, 1.0, 39.9)
+
+Position: (68.7, 1.0, 39.9)
+
+Position: (68.7, 1.0, 39.9)
+
+Position: (68.7, 1.0, 39.8)
+
+Position: (68.7, 1.0, 39.8)
+
+Position: (68.7, 1.0, 39.8)
+
+Position: (68.7, 1.0, 39.7)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.7)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.7)
+
+Position: (68.7, 1.0, 39.6)
+
+Position: (68.7, 1.0, 39.6)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.6)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.5)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.5)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.5)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.4)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.3)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.3)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.3)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.2)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.1)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.1)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.1)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.0)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 39.0)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.9)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.9)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.9)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.8)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.8)
+Rotation: (0.0, 1.0, 0.0, 0.2)
+
+Position: (68.7, 1.0, 38.8)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.7)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.7)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.6)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.6)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.6)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.5)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.5)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.5)
+Rotation: (0.0, 1.0, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.4)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.4)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.4)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.3)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.3)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.3)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.3)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.2)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.2)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.2)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.1)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.1)
+Rotation: (0.0, 0.9, 0.0, 0.3)
+
+Position: (68.7, 1.0, 38.0)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.7, 1.0, 38.0)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.7, 1.0, 38.0)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.7, 1.0, 38.0)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.7, 1.0, 38.0)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.9)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.9)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.9)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.9)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.8, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.9, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.9, 1.0, 37.8)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.9, 1.0, 37.7)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (68.9, 1.0, 37.7)
+Rotation: (0.0, 0.9, 0.0, 0.4)
+
+Position: (69.0, 1.0, 37.7)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.0, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.0, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.0, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.0, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.1, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.1, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.1, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.1, 1.0, 37.6)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.2, 1.0, 37.5)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.2, 1.0, 37.5)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.2, 1.0, 37.5)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.2, 1.0, 37.5)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.2, 1.0, 37.5)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.3, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.3, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.3, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.3, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.4, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.4, 1.0, 37.4)
+Rotation: (0.0, 0.9, 0.0, 0.5)
+
+Position: (69.4, 1.0, 37.4)
+Rotation: (0.0, 0.8, 0.0, 0.5)
+
+Position: (69.4, 1.0, 37.4)
+Rotation: (0.0, 0.8, 0.0, 0.5)
+
+Position: (69.5, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.5)
+
+Position: (69.5, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.5)
+
+Position: (69.5, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.5, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.6, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.6, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.6, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.6, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.3)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.7, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.8, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.8, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.8, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.8, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.9, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.9, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.9, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (69.9, 1.0, 37.2)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.0, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.0, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.0, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.1, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.1, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.1, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.1, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.2, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.2, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.2, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.2, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.3, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.3, 1.0, 37.1)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.3, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.3, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+Left clicked object: Interactable Radio at position (71.2, 1.0, 36.9)
+[Log]Checking for Dupes
+[Log]14
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Position: (70.4, 1.0, 37.0)
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
+
+Rotation: (0.0, 0.8, 0.0, 0.6)
