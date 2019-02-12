@@ -9,7 +9,7 @@ public class BaseLogic : MonoBehaviour {
 	public InteractionHandler.InvokableState onTrue;
 	public InteractionHandler.InvokableState onFalse;
 	
-	public bool IsTrue {
+	public virtual bool IsTrue {
 		get { return isTrue; }
 		set {
 			if (isTrue == value)
