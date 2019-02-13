@@ -8,6 +8,7 @@ public class BaseLogic : MonoBehaviour {
 	public bool isTrue;
 	public InteractionHandler.InvokableState onTrue;
 	public InteractionHandler.InvokableState onFalse;
+	public bool dontCheckOnSet;
 	
 	public virtual bool IsTrue {
 		get { return isTrue; }
@@ -15,6 +16,8 @@ public class BaseLogic : MonoBehaviour {
 			if (isTrue == value)
 				return;
 			isTrue = value;
+			if (dontCheckOnSet)
+				return;
 			foreach (Gate pg in parentGates) {
 				pg.UpdateLogic();
 			}
