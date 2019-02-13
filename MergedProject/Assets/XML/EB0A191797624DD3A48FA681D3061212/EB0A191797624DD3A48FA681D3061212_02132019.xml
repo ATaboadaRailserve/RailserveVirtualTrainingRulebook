@@ -1,0 +1,326 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191632478</sessionid>
+    <starttime>2/13/2019 4:33:05 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:33:05 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191632478</sessionid>
+    <starttime>2/13/2019 4:33:05 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:33:05 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191632478</sessionid>
+    <starttime>2/13/2019 4:33:05 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:33:05 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191619965</sessionid>
+    <starttime>2/13/2019 4:19:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:19:14 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191619965</sessionid>
+    <starttime>2/13/2019 4:19:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:19:18 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191619965</sessionid>
+    <starttime>2/13/2019 4:19:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:19:18 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191615542</sessionid>
+    <starttime>2/13/2019 4:15:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:15:44 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191615542</sessionid>
+    <starttime>2/13/2019 4:15:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:15:44 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191615542</sessionid>
+    <starttime>2/13/2019 4:15:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:15:44 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191612172</sessionid>
+    <starttime>2/13/2019 4:12:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:12:45 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191612172</sessionid>
+    <starttime>2/13/2019 4:12:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:12:45 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191612172</sessionid>
+    <starttime>2/13/2019 4:12:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:12:45 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>2132019168167</sessionid>
+    <starttime>2/13/2019 4:08:15 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:08:15 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>2132019168167</sessionid>
+    <starttime>2/13/2019 4:08:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:08:18 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>2132019168167</sessionid>
+    <starttime>2/13/2019 4:08:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 4:08:18 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191558960</sessionid>
+    <starttime>2/13/2019 3:59:13 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:59:13 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191558960</sessionid>
+    <starttime>2/13/2019 3:59:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:59:14 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191558960</sessionid>
+    <starttime>2/13/2019 3:59:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:59:14 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191551687</sessionid>
+    <starttime>2/13/2019 3:51:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:51:37 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191551687</sessionid>
+    <starttime>2/13/2019 3:51:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:51:39 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191551687</sessionid>
+    <starttime>2/13/2019 3:51:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:51:39 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191548256</sessionid>
+    <starttime>2/13/2019 3:48:21 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:48:21 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191548256</sessionid>
+    <starttime>2/13/2019 3:48:24 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:48:24 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191548256</sessionid>
+    <starttime>2/13/2019 3:48:24 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:48:24 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191536162</sessionid>
+    <starttime>2/13/2019 3:36:54 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:36:54 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191536162</sessionid>
+    <starttime>2/13/2019 3:36:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:36:57 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>21320191536162</sessionid>
+    <starttime>2/13/2019 3:36:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>2/13/2019 3:36:57 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 0; 21-27.272727272728, 11; 28-48.00001, 25; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>
