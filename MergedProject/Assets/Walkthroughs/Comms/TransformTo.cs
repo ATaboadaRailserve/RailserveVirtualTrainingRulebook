@@ -18,6 +18,7 @@ public class TransformTo : MonoBehaviour {
         public bool doPosition = true;
         public bool doRotation = true;
         public bool doScale = false;
+		public bool instant = false;
         public AnimationCurve curve;
         public InteractionHandler.InvokableState OnStart;
         public InteractionHandler.InvokableState OnEnd;
@@ -35,8 +36,16 @@ public class TransformTo : MonoBehaviour {
         {
             if(t.name == name)
             {
-                StartTransition(t);
-                break;
+				if(!t.instant)
+				{
+					StartTransition(t);
+					break;
+				}
+				else
+				{
+					InstantTransition(t);
+					break;
+				}
             }
         }
     }
@@ -50,6 +59,26 @@ public class TransformTo : MonoBehaviour {
             active = StartCoroutine(DoTransition(trans));
         }
     }
+	
+	void InstantTransition(Transition trans)
+	{
+		trans.OnStart.Invoke();
+		Vector3 copyFromPosition = trans.from.position;
+        Quaternion copyFromRotation = trans.from.rotation;
+        Vector3 copyFromScale = trans.from.localScale;
+        Vector3 copyToPosition = trans.to.position;
+        Quaternion copyToRotation = trans.to.rotation;
+        Vector3 copyToScale = trans.to.localScale;
+		
+		if (trans.doPosition)
+			 transform.position = copyToPosition;
+        if (trans.doRotation)
+			 transform.rotation = copyToRotation;
+		if (trans.doScale)
+			transform.localScale = copyToScale;
+		
+		trans.OnEnd.Invoke();
+	}
 
     IEnumerator DoTransition(Transition trans)
     {
@@ -88,6 +117,12 @@ public class TransformTo : MonoBehaviour {
             }
             yield return null;
         }
+		if (trans.doPosition)
+			 transform.position = copyToPosition;
+        if (trans.doRotation)
+			 transform.rotation = copyToRotation;
+		if (trans.doScale)
+			transform.localScale = copyToScale;
         trans.OnEnd.Invoke();
     }
 }
