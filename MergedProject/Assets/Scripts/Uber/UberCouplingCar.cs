@@ -143,6 +143,41 @@ public class UberCouplingCar : MonoBehaviour {
 		}
 	}
 	
+	public void ResetScenarioValues()
+	{
+		isFrontInteractionEnabled = true;
+		isRearInteractionEnabled = true;
+		
+		coupledAtFront = false;
+		coupledAtRear = false;
+		
+		FrontCoupleLeverOpened = false;
+		RearCoupleLeverOpened = false;
+		FrontCoupleOpened = false;
+		RearCoupleOpened = false;
+		FrontAirHoseAttached = false;
+		RearAirHoseAttached = false;
+		FrontKnuckleEngaged = false;
+		RearKnuckleEngaged = false;
+		FrontSlackStretched = false;
+		RearSlackStretched = false;
+		FrontAngleCockOpened = false;
+		RearAngleCockOpened = false;
+		
+		insFrontCoupleLeverOpened = false;
+		insRearCoupleLeverOpened = false;
+		insFrontCoupleOpened = false;
+		insRearCoupleOpened = false;
+		insFrontAirHoseAttached = false;
+		insRearAirHoseAttached = false;
+		insFrontKnuckleEngaged = false;
+		insRearKnuckleEngaged = false;
+		insFrontSlackStretched = false;
+		insRearSlackStretched = false;
+		insFrontAngleCockOpened = false;
+		insRearAngleCockOpened = false;
+	}
+	
 	public void StartScenario(bool isFrontCar)
 	{
 		this.isActiveInScenario = true;
@@ -317,18 +352,25 @@ public class UberCouplingCar : MonoBehaviour {
 	public void TryToggleFrontCouple()
 	{
 		if(!isFrontInteractionEnabled || (FrontKnuckleEngaged && !debugMode))
+		{
 			return;
+		}
 		else if (FrontCoupleOpened)
+		{
 			TryCloseFrontCouple();
-		else
+		}
+		else{
 			TryOpenFrontCouple();
+		}
 	}
 	
 	private void TryOpenFrontCouple()
 	{
 		Debug.Log("Trying Open Couple");
 		if(!FrontCoupleLeverOpened && !debugMode) // Fail condition
+		{
 			Fail("Cannot open knuckle with knuckle lever closed");
+		}
 		else
 		{
 			Debug.Log("Doing Open Couple");
@@ -340,6 +382,7 @@ public class UberCouplingCar : MonoBehaviour {
 	
 	private void TryCloseFrontCouple()
 	{
+		print("5");
 		Debug.Log("Doing Close Couple");
 		FrontCoupleOpened = false;
 		insFrontCoupleOpened = false;

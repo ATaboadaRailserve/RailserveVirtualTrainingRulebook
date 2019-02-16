@@ -455,6 +455,12 @@ public class UberCoupling : MonoBehaviour {
 		}
 	}
 	
+	// Functions called by radio wheel
+	public void Scenario_SetHalfwayStop()
+	{
+		didHalfWayStop = true;
+	}
+	
 	public void Scenario_CallDistance()
 	{
 		if(activeScenario != null)
