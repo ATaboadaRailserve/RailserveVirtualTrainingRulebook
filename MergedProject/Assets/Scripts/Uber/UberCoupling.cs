@@ -282,7 +282,7 @@ public class UberCoupling : MonoBehaviour {
 			if(UIDistance)
 				UIDistance.text = "Meters: " + DistanceInMeters.ToString("0.00") + "m | Cars: " + DistanceInCars.ToString("0.00")  + " | Feet: " + DistanceInFeet.ToString("0.00")  + "ft | Last Call: " + lastCallDistance.ToString("0.00") + "ft";
 			
-			if(Application.isEditor && automaticDistanceCalling)
+			//if(Application.isEditor && automaticDistanceCalling)
 				lastCallDistance = DistanceInFeet;
 			
 			if(usingFeetCalls)

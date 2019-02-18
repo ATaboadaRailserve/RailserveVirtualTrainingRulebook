@@ -294,9 +294,9 @@ public class UberCouplingCar : MonoBehaviour {
 	{
 		if(!isFrontInteractionEnabled || (FrontKnuckleEngaged && !debugMode))
 			return;
-		else if(FrontCoupleLeverOpened)
-			TryCloseFrontLever();
-		else
+		else if(FrontCoupleLeverOpened) {
+			//TryCloseFrontLever();
+		} else
 			TryOpenFrontLever();
 	}
 	
@@ -323,9 +323,9 @@ public class UberCouplingCar : MonoBehaviour {
 	{
 		if(!isRearInteractionEnabled || (RearKnuckleEngaged && !debugMode))
 			return;
-		else if(RearCoupleLeverOpened)
-			TryCloseRearLever();
-		else
+		else if(RearCoupleLeverOpened) {
+			//TryCloseRearLever();
+		} else
 			TryOpenRearLever();
 	}
 	
@@ -357,7 +357,7 @@ public class UberCouplingCar : MonoBehaviour {
 		}
 		else if (FrontCoupleOpened)
 		{
-			TryCloseFrontCouple();
+			//TryCloseFrontCouple();
 		}
 		else{
 			TryOpenFrontCouple();
@@ -393,9 +393,9 @@ public class UberCouplingCar : MonoBehaviour {
 	{
 		if(!isRearInteractionEnabled || (RearKnuckleEngaged && !debugMode))
 			return;
-		else if(RearCoupleOpened)
-			TryCloseRearCouple();
-		else
+		else if(RearCoupleOpened) {
+			//TryCloseRearCouple();
+		} else
 			TryOpenRearCouple();
 	}
 	
