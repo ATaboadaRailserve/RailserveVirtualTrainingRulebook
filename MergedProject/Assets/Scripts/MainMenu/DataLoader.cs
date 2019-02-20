@@ -300,7 +300,7 @@ public class DataLoader : MonoBehaviour
             }
         }
     }
-
+	
     public IEnumerator LogInFunction()
 	{
 		loginHoldScreen.SetActive(true);
@@ -325,7 +325,88 @@ public class DataLoader : MonoBehaviour
 		
 		Debug.Log("Opening WWW...");
 		WWW w = new WWW(URL,form);
-		yield return w;
+		float timer = 0;
+		bool failed = false;
+		
+		while(!w.isDone)
+		{
+			if(timer > 10000){ failed = true; break; }
+			timer += Time.deltaTime;
+			yield return null;
+		}
+		if(failed)
+		{
+			w.Dispose();
+			onlineMode = false;
+            Debug.Log("timeout exception: Did not connect to server");
+		    outputText.text = "timeout exception: Did not connect to server";
+            Debug.Log("Offline Mode");
+            procedureStatus = 0;
+            gender = 3;
+            gameFactors = "15-0, 0; 21-0; 28-0, 0; 36-0; 43-0, 0";
+
+            //Check if any existed local data record 
+            DateTime now = DateTime.Now;
+
+            string individualRecordFolderName = CreateMD5(formNick.ToLower());
+            string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+
+            bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
+
+            if (exists)
+            {
+                if (File.Exists(Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName))
+                {
+                    Debug.Log("The file " + individualRecordFileName + " exists.");
+                    //Load existed XML
+                    xmlManager = GameObject.FindGameObjectWithTag("XMLManager");
+                    xmlManager.GetComponentInChildren<LoadFromXML>().LoadOfflineXML(individualRecordFolderName + "/" + individualRecordFileName);
+
+                    //Get the first record, which is also the most recent one
+                    procedureStatus = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].procedureStatus;
+                    gender = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].gender;
+                    gameFactors = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].gameFactor;
+                    //Debug.Log(gameFactors);
+                }
+                else
+                {
+                    Debug.Log("The file " + individualRecordFileName + " not exists.");
+                    DirectoryInfo hdDirectoryInWhichToSearch = new DirectoryInfo(Application.dataPath + "/XML/" + individualRecordFolderName + "/");
+                    FileInfo[] filesInDir = hdDirectoryInWhichToSearch.GetFiles("*" + individualRecordFolderName + "*.xml");
+
+                    if (filesInDir.Length > 0)
+                    {
+                        Array.Reverse(filesInDir);
+                        //foreach (FileInfo fileInfo in filesInDir)
+                        //{
+                        //    Debug.Log(fileInfo);
+                        //}
+                        string[] filesInDirName = filesInDir[0].ToString().Split('\\');
+                        //Debug.Log(filesInDirName[filesInDirName.Length - 1]);
+
+                        //Load existed XML
+                        individualRecordFileName = filesInDirName[filesInDirName.Length - 1];
+                        xmlManager = GameObject.FindGameObjectWithTag("XMLManager");
+                        xmlManager.GetComponentInChildren<LoadFromXML>().LoadOfflineXML(individualRecordFolderName + "/" + individualRecordFileName);
+
+                        //Get the first record, which is also the most recent one
+                        procedureStatus = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].procedureStatus;
+                        gender = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].gender;
+                        gameFactors = xmlManager.GetComponentInChildren<LoadFromXML>().xmlInfo[0].gameFactor;
+                    }
+                }
+            }
+
+            UserOffLineLogin(formNick.ToLower());
+			
+			SceneManager.LoadScene(targetScenes[(int)Mathf.Clamp(procedureStatus, 0, targetScenes.Length-1)]);
+		}
+		else
+		{
+			yield return w;
+		}
+		//WWW w = new WWW(URL,form);
+		//yield return w;
 		
 		// Rongkai needs to review this bit to have XML load in based on username in the event of Offline Mode.
 		// Rongkai needs to review this bit to have XML load in based on username in the event of Offline Mode.
