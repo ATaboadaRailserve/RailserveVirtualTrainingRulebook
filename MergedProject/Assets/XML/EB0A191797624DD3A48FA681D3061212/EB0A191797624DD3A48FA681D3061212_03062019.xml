@@ -1,0 +1,3674 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>27</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:33:20 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/6/2019 10:33:20 PM | Passed Cargo Transfer</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66667, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>27</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:33:20 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:33:20 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66667, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>27</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:32:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:32:19 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66667, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:32:02 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/6/2019 10:32:02 PM | Good job!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66667, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:32:02 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:32:02 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66667, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:31:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:31:22 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-44.82759, 29; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:31:15 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>3/6/2019 10:31:15 PM | Didn't finish chocking train</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-44.82759, 29; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:31:15 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:31:15 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-44.82759, 29; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:30:53 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.42858, 28; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:45 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>3/6/2019 10:30:45 PM | Mis-chocked car</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.42858, 28; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:45 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:30:45 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.42858, 28; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:30:25 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-48.14816, 27; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:16 PM</starttime>
+    <messagetypeid>2</messagetypeid>
+    <message>3/6/2019 10:30:16 PM | Mis-chocked car</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-48.14816, 27; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:30:16 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:30:16 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-48.14816, 27; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>28</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:29:55 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:29:55 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>24</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:29:28 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/6/2019 10:29:28 PM | Passed Groundman Spotting</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>24</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:29:43 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:29:43 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>24</moduleid>
+    <sessionid>3620192228215</sessionid>
+    <starttime>3/6/2019 10:28:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:28:14 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:44 PM | PPE: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:44 PM | PPE: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:44 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:44 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:44 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:45 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:49 PM | Loading Racks: ZoneEnter&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:49 PM | Loading Racks: ZoneEnter&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:49 PM | Loading Racks: LoadingRacksCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | Loading Racks: LoadingRacksCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | Loading Racks: LoadingRacksCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | Loading Racks: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | Loading Racks: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | MoveToZone2: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:01 PM | MoveToZone2: Move To Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:19 PM | MoveToZone2: Move To Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:19 PM | MoveToZone2: Move To Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:23:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:23:19 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | MoveToZone2: Walk The Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | MoveToZone2: Walk The Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | MoveToZone2: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | MoveToZone2: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | Cars Left Standing: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:23 PM | Cars Left Standing: Grab Chocks&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:28 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:28 PM | Cars Left Standing: Grab Chocks&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:28 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:28 PM | Cars Left Standing: Grab Chocks&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:28 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:28 PM | Cars Left Standing: Chocking&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:37 PM | Cars Left Standing: Chocking&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:37 PM | Cars Left Standing: Chocking&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:37 PM | Cars Left Standing: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:37 PM | Cars Left Standing: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:37 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | Coupling: Cannot open knuckle with knuckle lever closed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:47 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:48 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:25:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:25:50 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:17 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:18 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:19 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:26:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:26:42 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:27:04 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:27:04 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:29 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:29 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:32 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192222450</sessionid>
+    <starttime>3/6/2019 10:22:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:22:32 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192217873</sessionid>
+    <starttime>3/6/2019 10:18:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:18:02 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192217873</sessionid>
+    <starttime>3/6/2019 10:18:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:18:04 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192217873</sessionid>
+    <starttime>3/6/2019 10:18:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:18:04 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:07 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:07 PM | PPE: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:07 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:07 PM | PPE: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:07 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:07 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:07 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:07 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:08 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:12 PM | Loading Racks: ZoneEnter&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:12 PM | Loading Racks: ZoneEnter&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:12 PM | Loading Racks: LoadingRacksCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | Loading Racks: LoadingRacksCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | Loading Racks: LoadingRacksCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | Loading Racks: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | Loading Racks: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | MoveToZone2: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:19 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:19 PM | MoveToZone2: Move To Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:37 PM | MoveToZone2: Move To Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:37 PM | MoveToZone2: Move To Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:09:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:09:37 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | MoveToZone2: Walk The Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | MoveToZone2: Walk The Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | MoveToZone2: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | MoveToZone2: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | Cars Left Standing: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:46 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:46 PM | Cars Left Standing: Grab Chocks&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:51 PM | Cars Left Standing: Grab Chocks&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:51 PM | Cars Left Standing: Grab Chocks&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:11:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:11:51 PM | Cars Left Standing: Chocking&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:01 PM | Cars Left Standing: Chocking&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:01 PM | Cars Left Standing: Chocking&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:01 PM | Cars Left Standing: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:01 PM | Cars Left Standing: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:01 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | Coupling: Cannot open knuckle with knuckle lever closed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:09 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:10 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:10 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:11 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:12 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:39 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:12:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:12:40 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | Coupling: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | Coupling: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | Coupling: module 'Coupling' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:13:53 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:13:53 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:14:18 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:14:18 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:08:54 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:08:54 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:08:56 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:08:56 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019228410</sessionid>
+    <starttime>3/6/2019 10:08:56 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:08:56 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | PPE: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | PPE: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:37 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:37 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:38 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:41 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:41 PM | Loading Racks: ZoneEnter&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:41 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:41 PM | Loading Racks: ZoneEnter&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:41 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:41 PM | Loading Racks: LoadingRacksCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | Loading Racks: LoadingRacksCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | Loading Racks: LoadingRacksCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | Loading Racks: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | Loading Racks: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | MoveToZone2: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:51 PM | MoveToZone2: Move To Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:08 PM | MoveToZone2: Move To Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:08 PM | MoveToZone2: Move To Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:08 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:08 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: Walk The Train&gt; The Move: Stepped into Red Zone.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:22 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: Walk The Train&gt; The Move: Stepped into Red Zone.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:57:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:57:32 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:00 PM | MoveToZone2: Walk The Train&gt; The Move: Failed to clear track.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:01 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: Walk The Train&gt; The Move: Stepped into Red Zone.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:33 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: Walk The Train&gt; The Move: Stepped into Red Zone.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:35 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:35 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: Walk The Train&gt; The Move: Stepped into Red Zone.</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: Walk The Train&gt; submodule failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: Walk The Train&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: Walk The Train&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | MoveToZone2: Walk The Train&gt; module 'Walk The Train' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:58:36 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:58:36 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | MoveToZone2: Walk The Train&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | MoveToZone2: Walk The Train&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | MoveToZone2: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | MoveToZone2: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | Cars Left Standing: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:43 PM | Cars Left Standing: Grab Chocks&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:47 PM | Cars Left Standing: Grab Chocks&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:47 PM | Cars Left Standing: Grab Chocks&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:00:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:00:47 PM | Cars Left Standing: Chocking&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:01:00 PM | Cars Left Standing: Chocking&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:01:00 PM | Cars Left Standing: Chocking&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:01:00 PM | Cars Left Standing: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:01:00 PM | Cars Left Standing: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 10:01:00 PM | Coupling: module started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 10:01:40 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/6/2019 10:01:40 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-50.00001, 26; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:23 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:25 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192156156</sessionid>
+    <starttime>3/6/2019 9:56:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:56:25 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192151517</sessionid>
+    <starttime>3/6/2019 9:51:20 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:51:20 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192151517</sessionid>
+    <starttime>3/6/2019 9:51:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:51:23 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192151517</sessionid>
+    <starttime>3/6/2019 9:51:23 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:51:23 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214614</sessionid>
+    <starttime>3/6/2019 9:46:50 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:46:50 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214614</sessionid>
+    <starttime>3/6/2019 9:46:52 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:46:52 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214614</sessionid>
+    <starttime>3/6/2019 9:46:52 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:46:52 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192143405</sessionid>
+    <starttime>3/6/2019 9:43:15 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:43:15 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192143405</sessionid>
+    <starttime>3/6/2019 9:43:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:43:18 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192143405</sessionid>
+    <starttime>3/6/2019 9:43:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:43:18 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214035</sessionid>
+    <starttime>3/6/2019 9:40:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:40:49 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214035</sessionid>
+    <starttime>3/6/2019 9:40:52 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:40:52 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>362019214035</sessionid>
+    <starttime>3/6/2019 9:40:52 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:40:52 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192137354</sessionid>
+    <starttime>3/6/2019 9:38:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:38:00 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192137354</sessionid>
+    <starttime>3/6/2019 9:38:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:38:02 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192137354</sessionid>
+    <starttime>3/6/2019 9:38:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:38:02 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192134713</sessionid>
+    <starttime>3/6/2019 9:34:26 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:34:26 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192134713</sessionid>
+    <starttime>3/6/2019 9:34:26 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:34:26 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>3620192134713</sessionid>
+    <starttime>3/6/2019 9:34:26 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:34:26 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>21</moduleid>
+    <sessionid>362019211194</sessionid>
+    <starttime>3/6/2019 9:05:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:05:47 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>362019211194</sessionid>
+    <starttime>3/6/2019 9:03:49 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:03:49 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>16</moduleid>
+    <sessionid>362019211194</sessionid>
+    <starttime>3/6/2019 9:03:29 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:03:29 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>362019211194</sessionid>
+    <starttime>3/6/2019 9:02:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/6/2019 9:02:12 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-50.000009615385, 26; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>

@@ -13,6 +13,8 @@ public class AlwaysFaceTarget : MonoBehaviour {
 	{
 		if (lockX || lockY || lockZ)
 			tempAngle = transform.eulerAngles;
+		if (target == null)
+			Destroy(this);
 	}
 	
 	void LateUpdate()

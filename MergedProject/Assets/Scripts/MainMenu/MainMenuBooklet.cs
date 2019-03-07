@@ -184,6 +184,7 @@ public class MainMenuBooklet : MonoBehaviour {
 	const int GM_EYES_DUTIES = 61;
 	const int NAV_UBER = 62;
 	const int GM_UBER = 63;
+	const int AllDone = 72;
 	
 	int [] navigationIndexes = {NAV_INTRO, NAV_PPE, NAV_REFUELING, NAV_PRECAUTIONS, NAV_COMMS_EMERGENCIES, NAV_EMERGENCIES, NAV_COMMS,
 		NAV_CAR_MANIPULATION, NAV_IDENTIFYING_EQUIPMENT, NAV_MOUNTING, NAV_GROUNDMAN_DUTIES, NAV_GROUNDMAN_SPOTTING, NAV_CARGO_TRANSFER,
@@ -199,7 +200,7 @@ public class MainMenuBooklet : MonoBehaviour {
 	
 	int [] gameIndexes = {GM_COMMS_EMERGENCIES, GM_CAR_MANIPULATION, GM_GROUNDMAN_DUTIES, GM_COUPLING_BUMPERS, GM_EYES_DUTIES, GM_UBER};
 	
-	int [] progressTranslation = { -1, 2, 4, 4, 6, 7, 9, 10, 11, 14, 15, 16, 18, 19, 20, 21, 24, 25, 27, 28, 29, 30, 33, 34, 35, 37, 38, 39, 40, 43, 44, 45, 46, 48, 49, 50, 51, 54, 55, 56, 58, 59, 60, 61, 63};
+	int [] progressTranslation = { -1, 2, 4, 4, 6, 7, 9, 10, 11, 14, 15, 16, 18, 19, 20, 21, 24, 25, 27, 28, 29, 30, 33, 34, 35, 37, 38, 39, 40, 43, 44, 45, 46, 48, 49, 50, 51, 54, 55, 56, 58, 59, 60, 61, 63, 72};
 	
 	int [] pageOneNavIndexes = {NAV_INTRO, NAV_COMMS_EMERGENCIES, NAV_CAR_MANIPULATION, NAV_GROUNDMAN_DUTIES, NAV_COUPLING_BUMPERS, NAV_EYES_DUTIES, NAV_UBER};
 	
@@ -248,8 +249,8 @@ public class MainMenuBooklet : MonoBehaviour {
 			else if (Input.GetKeyDown(KeyCode.Equals))
 			{
 				procedureStatus++;
-				if(procedureStatus > 44)
-					procedureStatus = 44;
+				if(procedureStatus > 45)
+					procedureStatus = 45;
 				ResetButtons();
 				DisableFinmenus();
 				DisableSubmenus();
@@ -311,8 +312,10 @@ public class MainMenuBooklet : MonoBehaviour {
 			Debug.LogAssertion("Menu cannot find DataLoader");
 			return;
 		}
-		else
-			procedureStatus = Mathf.Min(dataLoader.procedureStatus, 44);
+		else {
+			procedureStatus = Mathf.Min(dataLoader.procedureStatus, 45);
+			print (dataLoader.procedureStatus);
+		}
 		Debug.Log("Menu procedureStatus read as: " + procedureStatus);
 		
 		if(dataLoader.gender <= 1)
