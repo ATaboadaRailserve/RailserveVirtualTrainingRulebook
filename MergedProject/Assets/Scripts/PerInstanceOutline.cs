@@ -87,7 +87,7 @@ public class PerInstanceOutline : MonoBehaviour {
 			maxScale = Mathf.Max(maxScale, transform.lossyScale.y);
 			maxScale = Mathf.Max(maxScale, transform.lossyScale.z);
 			currentWidth = currentWidth / maxScale;
-			print(currentWidth.ToString("0.0000"));
+			//print(currentWidth.ToString("0.0000"));
 		}
 		
 		outline.SetColor("_OutlineColor", currentColor);
