@@ -1,0 +1,302 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>3820192215224</sessionid>
+    <starttime>3/8/2019 10:15:59 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:15:59 PM | Complete!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>3820192215224</sessionid>
+    <starttime>3/8/2019 10:16:08 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:16:08 PM | Take Two Procedure passed. </message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>3820192215224</sessionid>
+    <starttime>3/8/2019 10:16:08 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/8/2019 10:16:08 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>3820192215224</sessionid>
+    <starttime>3/8/2019 10:15:51 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:15:51 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>3820192213845</sessionid>
+    <starttime>3/8/2019 10:14:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:14:06 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:08:44 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:08:44 PM | Complete!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:10:19 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:10:19 PM | Take Two Procedure passed. </message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:10:19 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/8/2019 10:10:19 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:08:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:08:25 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:07:52 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:07:52 PM | Complete!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:08:13 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:08:13 PM | Take Two Procedure passed. </message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:08:13 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/8/2019 10:08:13 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>8</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:07:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:07:33 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>13</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:06:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:06:02 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>382019225247</sessionid>
+    <starttime>3/8/2019 10:05:47 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:05:47 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:07 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:04:07 PM | Obtained Radio</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:14 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:04:14 PM | Selected Channel</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:26 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:04:26 PM | Did Radio Check</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:44 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:04:44 PM | Finished Inspection</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:47 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/8/2019 10:04:47 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:04:00 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:04:00 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>13</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:03:01 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:03:01 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:02:35 PM</starttime>
+    <messagetypeid>3</messagetypeid>
+    <message>3/8/2019 10:02:35 PM | Great job!</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:02:37 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>3/8/2019 10:02:37 PM | 100</message>
+    <procedure>72</procedure>
+    <gamefactors>15-0, 1; 21-0, 1; 28-46.66668, 30; 36-0, 1; 43-6.451615, 31</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>382019221974</sessionid>
+    <starttime>3/8/2019 10:02:18 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>3/8/2019 10:02:18 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-0, 1; 21-23.076923076924, 13; 28-46.666675, 30; 36-18.75, 16; 43-6.4516154838709, 31</gamefactors>
+  </item>
+</items>

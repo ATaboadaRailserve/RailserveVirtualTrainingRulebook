@@ -134,6 +134,7 @@ public class DatabaseMessageHolder : MonoBehaviour {
 	2 - Warning 	|		Any form of failure such as a rule break or section fail.
 	3 - Credit		|		Any form of completion such as a section completion or individual tutorial task completion.
 	4 - Score		|		Final score of games
+	8 - CheckPoint  |       Checkpoint for the Uber game
 	
 	*/
 

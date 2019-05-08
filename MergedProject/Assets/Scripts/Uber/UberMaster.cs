@@ -121,6 +121,12 @@ public class UberMaster : MonoBehaviour
 	
 	public void AddUnsavedProgress(UberModule um)
 	{
+		Debug.Log("Saving progress: " + um.ModuleName);
+		for (int i = 0; i < Modules.Length; i++) {
+			if (Modules[i].ModuleName == um.ModuleName) {
+				messageHolder.WriteMessage (i.ToString(), 8, true);
+			}
+		}
 		unsavedProgress.Push(um);
 	}
 	

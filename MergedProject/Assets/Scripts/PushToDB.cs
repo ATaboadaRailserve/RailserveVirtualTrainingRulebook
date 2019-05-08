@@ -9,6 +9,7 @@ public class PushToDB : MonoBehaviour {
     string insertScoreURL = "http://rsconnect.biz/InsertScore.php";
     string insertEventURL = "http://rsconnect.biz/InsertEvent.php";
     string updateProcedureURL = "http://rsconnect.biz/UpdateProcedure.php";
+    string ubercheckpointURL = "http://rsconnect.biz/ComprehensiveCheckpoint.php";
     int messageCount = 0;
     int procedureStatus;
     int moduleIndex = 0;
@@ -28,6 +29,8 @@ public class PushToDB : MonoBehaviour {
         WWW w_grade;
         WWW w_event;
         WWW w_procedure;
+		WWW w_ubercheckpoint;
+        WWWForm ubersaveform = new WWWForm();
 
         Debug.Log("Opening WWW...");
 
@@ -97,6 +100,24 @@ public class PushToDB : MonoBehaviour {
 				
 				// Log message that event occurred
 				form.AddField("message", m.message.Split('|')[0].Trim() + " | The final grade is " + m.message.Split('|')[1].Trim());
+            }  else if (m.messageTypeID.Equals("8")) {
+				// Store the current Uber Module progress
+				string point = m.message.Split('|')[1];
+				Debug.Log("Sending: " + point);
+				ubersaveform.AddField("userid", m.userID);
+				ubersaveform.AddField("uberSavePoint", point);
+				w_ubercheckpoint = new WWW(ubercheckpointURL, ubersaveform);
+				yield return w_ubercheckpoint;
+				if (w_ubercheckpoint.error != null)
+				{
+					Debug.Log(w_ubercheckpoint.error);
+				}
+				else
+				{
+					Debug.Log("checkpoint was inserted!");
+					Debug.Log(w_ubercheckpoint.data);
+					w_ubercheckpoint.Dispose();
+				}
             }
             else
             {
