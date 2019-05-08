@@ -119,7 +119,7 @@ public class CommsEmergenciesGameManager : MonoBehaviour {
         List<Findable> pool = new List<Findable>(harmfulFindable);
         List<string> clipboardStrings = new List<string>();
         int selected = 0;
-        int selectCount = Random.Range(0, maxActivated);
+        int selectCount = Random.Range(1, maxActivated);
 
         Debug.Log("num harmful: " + selectCount);
         while(selected < selectCount && pool.Count > 0)
@@ -145,7 +145,7 @@ public class CommsEmergenciesGameManager : MonoBehaviour {
 
         pool = new List<Findable>(harmlessFindable);
         selected = 0;
-        selectCount = Random.Range(0, harmlessFindable.Length - 3);
+        selectCount = Random.Range(1, harmlessFindable.Length - 3);
 
         Debug.Log("num harmless: + " + selectCount);
         while(selected < selectCount && pool.Count > 0)

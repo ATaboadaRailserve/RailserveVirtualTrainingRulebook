@@ -1,0 +1,146 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191714487</sessionid>
+    <starttime>5/8/2019 5:14:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:14:22 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>5820191659297</sessionid>
+    <starttime>5/8/2019 4:59:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:59:57 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>14</moduleid>
+    <sessionid>5820191657560</sessionid>
+    <starttime>5/8/2019 4:57:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:57:48 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191653717</sessionid>
+    <starttime>5/8/2019 4:53:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:53:40 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>582019165047</sessionid>
+    <starttime>5/8/2019 4:51:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:51:12 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191649610</sessionid>
+    <starttime>5/8/2019 4:50:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:50:04 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191645941</sessionid>
+    <starttime>5/8/2019 4:45:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:45:25 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191634366</sessionid>
+    <starttime>5/8/2019 4:34:20 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:34:20 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>582019163151</sessionid>
+    <starttime>5/8/2019 4:32:05 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:05 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191629102</sessionid>
+    <starttime>5/8/2019 4:29:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:29:57 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>5820191629652</sessionid>
+    <starttime>5/8/2019 4:29:26 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:29:26 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>15</moduleid>
+    <sessionid>582019162132</sessionid>
+    <starttime>5/8/2019 4:22:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:22:38 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+</items>
