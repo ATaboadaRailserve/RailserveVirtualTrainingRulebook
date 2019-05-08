@@ -67,6 +67,7 @@ public class PlayerController : MonoBehaviour {
 	
 	void Start () {
 		rigidbody = GetComponent<Rigidbody>();
+		GetSensitivityOnStart();
 	}
 	
 	void FixedUpdate () {
@@ -287,8 +288,16 @@ public class PlayerController : MonoBehaviour {
 	}
 	
 	public void SetSensitivity (float sensitivity) {
+		PlayerPrefs.SetFloat("MouseSensitivity", sensitivity);
+		
 		look.sensitivityHorizontal = sensitivity;
 		look.sensitivityVertical = sensitivity;
+	}
+	
+	void GetSensitivityOnStart()
+	{
+		look.sensitivityHorizontal = PlayerPrefs.GetFloat("MouseSensitivity",30);
+		look.sensitivityVertical = PlayerPrefs.GetFloat("MouseSensitivity",30);
 	}
 	
 }
