@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a7533289dcdd2a34c826ff18901c4b56
 timeCreated: 1557344830
+=======
+guid: 3b09f76dc7cf92b408137275570105e0
+timeCreated: 1557347001
+>>>>>>> origin/Ray's_Branch
 licenseType: Pro
 TextScriptImporter:
   userData: 

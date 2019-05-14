@@ -3,11 +3,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>71</moduleid>
     <sessionid>582019171825</sessionid>
     <starttime>5/8/2019 5:18:42 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 5:18:42 PM | PPE: module complete</message>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191714487</sessionid>
+    <starttime>5/8/2019 5:14:22 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:14:22 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -15,11 +23,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>71</moduleid>
     <sessionid>582019171825</sessionid>
     <starttime>5/8/2019 5:18:42 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 5:18:42 PM | PPE: module ended</message>
+=======
+    <moduleid>14</moduleid>
+    <sessionid>5820191659297</sessionid>
+    <starttime>5/8/2019 4:59:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:59:57 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -27,11 +43,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>71</moduleid>
     <sessionid>582019171825</sessionid>
     <starttime>5/8/2019 5:18:42 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 5:18:42 PM | Comms: module started</message>
+=======
+    <moduleid>14</moduleid>
+    <sessionid>5820191657560</sessionid>
+    <starttime>5/8/2019 4:57:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:57:48 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -39,6 +63,7 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>71</moduleid>
     <sessionid>582019171825</sessionid>
     <starttime>5/8/2019 5:18:42 PM</starttime>
@@ -766,11 +791,21 @@
     <message>5/8/2019 4:31:48 PM | PPE: module started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191653717</sessionid>
+    <starttime>5/8/2019 4:53:40 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:53:40 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191627252</sessionid>
     <starttime>5/8/2019 4:27:41 PM</starttime>
@@ -778,11 +813,21 @@
     <message>5/8/2019 4:27:41 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>582019165047</sessionid>
+    <starttime>5/8/2019 4:51:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:51:12 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>36</moduleid>
     <sessionid>5820191627252</sessionid>
     <starttime>5/8/2019 4:27:30 PM</starttime>
@@ -790,11 +835,21 @@
     <message>5/8/2019 4:27:30 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191649610</sessionid>
+    <starttime>5/8/2019 4:50:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:50:04 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191626540</sessionid>
     <starttime>5/8/2019 4:27:04 PM</starttime>
@@ -802,11 +857,21 @@
     <message>5/8/2019 4:27:04 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191645941</sessionid>
+    <starttime>5/8/2019 4:45:25 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:45:25 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191625475</sessionid>
     <starttime>5/8/2019 4:26:11 PM</starttime>
@@ -814,16 +879,33 @@
     <message>5/8/2019 4:26:11 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191634366</sessionid>
+    <starttime>5/8/2019 4:34:20 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:34:20 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191625449</sessionid>
     <starttime>5/8/2019 4:25:41 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:25:41 PM | Training Started</message>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>582019163151</sessionid>
+    <starttime>5/8/2019 4:32:05 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:05 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -831,11 +913,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191622649</sessionid>
     <starttime>5/8/2019 4:22:58 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:22:58 PM | Training Started</message>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191629102</sessionid>
+    <starttime>5/8/2019 4:29:57 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:29:57 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -843,11 +933,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>35</moduleid>
     <sessionid>5820191621189</sessionid>
     <starttime>5/8/2019 4:21:55 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:21:55 PM | Training Started</message>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>5820191629652</sessionid>
+    <starttime>5/8/2019 4:29:26 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:29:26 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -855,6 +953,7 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
     <moduleid>0</moduleid>
     <sessionid>5820191617920</sessionid>
     <starttime>5/8/2019 4:17:43 PM</starttime>
@@ -947,4 +1046,14 @@
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
   </item>
+=======
+    <moduleid>15</moduleid>
+    <sessionid>582019162132</sessionid>
+    <starttime>5/8/2019 4:22:38 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:22:38 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+>>>>>>> origin/Ray's_Branch
 </items>
