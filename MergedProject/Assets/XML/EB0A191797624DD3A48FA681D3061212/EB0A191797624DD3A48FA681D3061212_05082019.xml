@@ -3,11 +3,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | PPE: module complete</message>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191714487</sessionid>
     <starttime>5/8/2019 5:14:22 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 5:14:22 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -15,11 +23,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | PPE: module ended</message>
+=======
     <moduleid>14</moduleid>
     <sessionid>5820191659297</sessionid>
     <starttime>5/8/2019 4:59:57 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:59:57 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -27,11 +43,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | Comms: module started</message>
+=======
     <moduleid>14</moduleid>
     <sessionid>5820191657560</sessionid>
     <starttime>5/8/2019 4:57:48 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:57:48 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -39,6 +63,735 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:42 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:42 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>8</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | 1</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:43 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:34 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:34 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:34 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:34 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>582019171825</sessionid>
+    <starttime>5/8/2019 5:18:34 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:18:34 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:12 PM | PPE: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:12 PM | PPE: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:12 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:12 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:12 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:13 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:13 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:13 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:13 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:13 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:13 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>8</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | 1</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:13:14 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:13:14 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:12:39 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:12:39 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191712555</sessionid>
+    <starttime>5/8/2019 5:12:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 5:12:39 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.714285714285, 28; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:02 PM | PPE: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:02 PM | PPE: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:02 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:02 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:02 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:04 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:04 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:04 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: Attempted to enter yard without PPE</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: module failed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | master: uber game resuming at last checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: RadioCheck&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: RadioPickup&gt; module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: module cleared for previous checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: RadioPickup&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | Comms: module 'Comms' started again as checkpoint</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:06 PM | master: Reset to Last Checkpoint: Complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:09 PM | Comms: RadioPickup&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:09 PM | Comms: RadioPickup&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:09 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:09 PM | Comms: RadioCheck&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Comms: RadioCheck&gt; submodule completed</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Comms: RadioCheck&gt; submodule ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Comms: module complete</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Comms: module ended</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Loading Racks: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>8</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | 1</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:32:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:32:11 PM | Loading Racks: ZoneEnter&gt; submodule started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:31:45 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:31:45 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:31:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:31:48 PM | Uber Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>71</moduleid>
+    <sessionid>5820191631873</sessionid>
+    <starttime>5/8/2019 4:31:48 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:31:48 PM | PPE: module started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191653717</sessionid>
     <starttime>5/8/2019 4:53:40 PM</starttime>
@@ -46,11 +799,21 @@
     <message>5/8/2019 4:53:40 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191627252</sessionid>
+    <starttime>5/8/2019 4:27:41 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:27:41 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
     <moduleid>15</moduleid>
     <sessionid>582019165047</sessionid>
     <starttime>5/8/2019 4:51:12 PM</starttime>
@@ -58,11 +821,21 @@
     <message>5/8/2019 4:51:12 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>36</moduleid>
+    <sessionid>5820191627252</sessionid>
+    <starttime>5/8/2019 4:27:30 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:27:30 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191649610</sessionid>
     <starttime>5/8/2019 4:50:04 PM</starttime>
@@ -70,11 +843,21 @@
     <message>5/8/2019 4:50:04 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.53846153846, 26; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191626540</sessionid>
+    <starttime>5/8/2019 4:27:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:27:04 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191645941</sessionid>
     <starttime>5/8/2019 4:45:25 PM</starttime>
@@ -82,11 +865,21 @@
     <message>5/8/2019 4:45:25 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191625475</sessionid>
+    <starttime>5/8/2019 4:26:11 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:26:11 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191634366</sessionid>
     <starttime>5/8/2019 4:34:20 PM</starttime>
@@ -94,16 +887,25 @@
     <message>5/8/2019 4:34:20 PM | Training Started</message>
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-11.999999999998, 25; 43-7.8947389473684, 38</gamefactors>
+>>>>>>> origin/Ray's_Branch
   </item>
   <item>
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191625449</sessionid>
+    <starttime>5/8/2019 4:25:41 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:25:41 PM | Training Started</message>
+=======
     <moduleid>15</moduleid>
     <sessionid>582019163151</sessionid>
     <starttime>5/8/2019 4:32:05 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:32:05 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -111,11 +913,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191622649</sessionid>
+    <starttime>5/8/2019 4:22:58 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:22:58 PM | Training Started</message>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191629102</sessionid>
     <starttime>5/8/2019 4:29:57 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:29:57 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -123,11 +933,19 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>35</moduleid>
+    <sessionid>5820191621189</sessionid>
+    <starttime>5/8/2019 4:21:55 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:21:55 PM | Training Started</message>
+=======
     <moduleid>15</moduleid>
     <sessionid>5820191629652</sessionid>
     <starttime>5/8/2019 4:29:26 PM</starttime>
     <messagetypeid>1</messagetypeid>
     <message>5/8/2019 4:29:26 PM | Training Started</message>
+>>>>>>> origin/Ray's_Branch
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
@@ -135,6 +953,100 @@
     <username>master</username>
     <userid>1</userid>
     <gender>1</gender>
+<<<<<<< HEAD
+    <moduleid>0</moduleid>
+    <sessionid>5820191617920</sessionid>
+    <starttime>5/8/2019 4:17:43 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:17:43 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>43</moduleid>
+    <sessionid>5820191615561</sessionid>
+    <starttime>5/8/2019 4:16:24 PM</starttime>
+    <messagetypeid>4</messagetypeid>
+    <message>5/8/2019 4:16:24 PM | 0</message>
+    <procedure>72</procedure>
+    <gamefactors>15-26.66667, 15; 21-26.66667, 15; 28-38.09525, 42; 36-26.66667, 15; 43-7.894739, 38</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>5820191615561</sessionid>
+    <starttime>5/8/2019 4:15:59 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:15:59 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>582019168590</sessionid>
+    <starttime>5/8/2019 4:09:06 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:09:06 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>582019164283</sessionid>
+    <starttime>5/8/2019 4:04:32 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:04:32 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>58201916136</sessionid>
+    <starttime>5/8/2019 4:01:33 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 4:01:33 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>582019155974</sessionid>
+    <starttime>5/8/2019 3:59:17 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 3:59:17 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>0</moduleid>
+    <sessionid>5820191544157</sessionid>
+    <starttime>5/8/2019 3:45:04 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/8/2019 3:45:04 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-8.1081102702703, 37</gamefactors>
+  </item>
+=======
     <moduleid>15</moduleid>
     <sessionid>582019162132</sessionid>
     <starttime>5/8/2019 4:22:38 PM</starttime>
@@ -143,4 +1055,5 @@
     <procedure>72</procedure>
     <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-12.499999999998, 24; 43-7.8947389473684, 38</gamefactors>
   </item>
+>>>>>>> origin/Ray's_Branch
 </items>

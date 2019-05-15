@@ -1,0 +1,66 @@
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Cursor Escaped
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Ver. 1.0.1.1
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Fields Added
+[Log]Opening WWW...
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+[Log]Test Ok
+[Log]Checking D:\Kyle Brannon\Documents\Railserve\MergedProject\Assets\XML\319C11B50535B7A0558BA961DA044A80\319C11B50535B7A0558BA961DA044A80_05142019.xml
+[Log]Uploading D:\Kyle Brannon\Documents\Railserve\MergedProject\Assets\XML\319C11B50535B7A0558BA961DA044A80\319C11B50535B7A0558BA961DA044A80_05142019.xml
+[Log]File 319C11B50535B7A0558BA961DA044A80_05142019.xml uploaded successfully. File is valid, and was successfully moved. 
+
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+NullReferenceException: Object reference not set to an instance of an object
+[Log]Got this user -- Successfully connected!UserID:1412|First Name:Kyle|Last Name:B|Gender:2|Username:KyleB1337|Training Status: 6|Game Factors: 15-0, 0; 21-0, 0; 28-0, 0; 36-0, 0; 43-0, 0|
+[Log]Successfully connected!UserID:1412|First Name:Kyle|Last Name:B|Gender:2|Username:KyleB1337|Training Status: 6|Game Factors: 15-0, 0; 21-0, 0; 28-0, 0; 36-0, 0; 43-0, 0|
+[Log]Current Username: kyleb1337 Current First Name: Kyle Current Last Name: B
+[Log]The file 319C11B50535B7A0558BA961DA044A80_05142019.xml exists.
+[Log]Retrieving Data from Local
+[Log]The file 319C11B50535B7A0558BA961DA044A80_05142019.xml exists.
+Rewired: Only one Rewired Input Manager may exist in a scene. This additional Rewired Input Manager game object will be deleted. You may see this warning if you are loading a new level that contains a Rewired Input Manager. If that's the case, you can safely ignore this warning. This warning will never be logged in a build.
+6
+[Log]Menu procedureStatus read as: 6
+[Log]dataLoader userName: kyleb1337 | gender: 2 | procedureStatus: 6 | Game Factors:  15-0, 0; 21-0, 0; 28-0, 0; 36-0, 0; 43-0, 0
+[Log]Cursor No Longer Escaped
+Leaving Scene: 
+Loading Scene: MainMenu
+[Warning]No MovieTexture found on Plane. Skipping movie.
+[Log]30:9
+[Log]Car Manipulation procedure active state set to False
+[Log]51:9
+[Log]Coupling Derails procedure active state set to False
+[Log]61:9
+[Log]Eyes of the Move procedure active state set to False
+[Log]21:9
+[Log]Comms Emergencies procedure active state set to False
+[Log]40:9
+[Log]Groundman Duties procedure active state set to False
+[Log]63:9
+[Log]11:9
+[Log]Intro procedure active state set to False

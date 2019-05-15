@@ -18,7 +18,8 @@ public class Options : MonoBehaviour {
 	void OnSceneLoaded (Scene scene, LoadSceneMode mode) {
 		if (!GameObject.FindWithTag("Player"))
 			return;
-		GameObject.FindWithTag("Player").GetComponent<PlayerController>().SetSensitivity((float)sensitivitySlider.value/10f);
+		//GameObject.FindWithTag("Player").GetComponent<PlayerController>().SetSensitivity((float)sensitivitySlider.value/10f);
+		sensitivitySlider.value = PlayerPrefs.GetFloat("MouseSensitivity",30) * 10f;
 	}
 	
 	public void UpdateSensitivity () {
