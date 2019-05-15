@@ -1,0 +1,14 @@
+<items>
+  <item>
+    <username>master</username>
+    <userid>1</userid>
+    <gender>1</gender>
+    <moduleid>17</moduleid>
+    <sessionid>5920191815889</sessionid>
+    <starttime>5/9/2019 6:15:39 PM</starttime>
+    <messagetypeid>1</messagetypeid>
+    <message>5/9/2019 6:15:39 PM | Training Started</message>
+    <procedure>72</procedure>
+    <gamefactors> 15-26.666666666668, 15; 21-27.272727272728, 22; 28-38.095244047619, 42; 36-10.344827586206, 29; 43-10.000002, 40</gamefactors>
+  </item>
+</items>
