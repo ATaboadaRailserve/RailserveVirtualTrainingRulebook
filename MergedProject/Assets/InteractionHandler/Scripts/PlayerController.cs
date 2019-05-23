@@ -28,6 +28,8 @@ public class PlayerController : MonoBehaviour {
 		public string verticalAxis = "LookVertical";
 		public string horizontalAxis = "LookHorizontal";
 		
+		public float maxDeltaLook = 5;
+		
 		public float sensitivityVertical = 2;
 		public float sensitivityHorizontal = 2;
 		
@@ -120,14 +122,14 @@ public class PlayerController : MonoBehaviour {
 		
 		// Look vertically with just the head
 		headAngles = head.localEulerAngles;
-		headAngles.z += player.GetAxis(look.verticalAxis) * look.sensitivityVertical;
+		headAngles.z += Mathf.Clamp(player.GetAxis(look.verticalAxis) * look.sensitivityVertical, -look.maxDeltaLook, look.maxDeltaLook);
 		if (look.limitVertical)
 			headAngles.z = Mathf.Clamp(headAngles.z, look.verticalLimits.x, look.verticalLimits.y);
 		head.localEulerAngles = headAngles;
 		
 		// Look horizontally with just the body
 		bodyAngles = transform.localEulerAngles;
-		bodyAngles.y += player.GetAxis(look.horizontalAxis) * look.sensitivityHorizontal;
+		bodyAngles.y += Mathf.Clamp(player.GetAxis(look.horizontalAxis) * look.sensitivityHorizontal, -look.maxDeltaLook, look.maxDeltaLook);
 		if (look.limitHorizontal)
 			bodyAngles.y = Mathf.Clamp(bodyAngles.y, look.horizontalLimits.x, look.horizontalLimits.y);
 		transform.localEulerAngles = bodyAngles;
