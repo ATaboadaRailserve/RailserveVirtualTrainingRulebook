@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 using System.IO;
+using System.Text;
 using System.Linq;
 using Rewired;
 
@@ -30,8 +32,17 @@ public class ReportLogger : MonoBehaviour {
 		}
 		AdjustFileCount(path);
 		path += "/OutputLog_" + System.DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss_fff") + ".log";
+		
+		/*
 		log = new FileStream(path, System.IO.FileMode.Create);
 		log.Dispose();
+		*/
+		
+		if (!File.Exists(path)) {
+			// Create a file to write to.
+			string initialText = System.DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss_fff");
+			File.AppendAllText(path, initialText, Encoding.UTF8);
+		}
 	}
 	
 	void AdjustFileCount(string path) {
@@ -102,18 +113,29 @@ public class ReportLogger : MonoBehaviour {
 				logStuff += '\n' + "Opened radio wheel";
 			}
 		}
+		
+		if (GetEventSystemRaycastResults().Count != 0) {
+			foreach (RaycastResult r in GetEventSystemRaycastResults()) {
+				logStuff += '\n' + "UI Raycast Result: " + r.gameObject.name;
+			}
+		}
+		
 		if (logStuff != "") {
-			StreamWriter writer = new StreamWriter(path, true);
-			writer.WriteLine(logStuff);
-			writer.Close();
+			WriteLog();
 		}
 	}
 	
+	static List<RaycastResult> GetEventSystemRaycastResults() {   
+		PointerEventData eventData = new PointerEventData(EventSystem.current);
+		eventData.position =  Input.mousePosition;
+		List<RaycastResult> raysastResults = new List<RaycastResult>();
+		EventSystem.current.RaycastAll( eventData, raysastResults );
+		return raysastResults;
+	}
+	
 	void ChangedActiveScene (Scene current, Scene next) {
-		StreamWriter writer = new StreamWriter(path, true);
-		writer.WriteLine("Leaving Scene: " + current.name);
-		writer.WriteLine("Loading Scene: " + next.name);
-		writer.Close();
+		WriteLine("Leaving Scene: " + current.name);
+		WriteLine("Loading Scene: " + next.name);
 		
 		if (next.name == "MainMenu") {
 			StartCoroutine(SetBugReportInstructions());
@@ -126,8 +148,38 @@ public class ReportLogger : MonoBehaviour {
 	}
 	
 	void HandleLog (string logString, string stackTrace, LogType type) {
+		WriteLine(logString);
+	}
+	
+	void WriteLine (string line) {
+		line = "" + '\n' + line;
+		if (CompareLastLine(line))
+			return;
+		
+		File.AppendAllText(path, line, Encoding.UTF8);
+		
+		/*
 		StreamWriter writer = new StreamWriter(path, true);
-		writer.WriteLine(logString);
+		writer.WriteLine(line);
 		writer.Close();
+		*/
+	}
+	
+	void WriteLog () {
+		if (CompareLastLine(logStuff.Split('\n').Last()))
+			return;
+		
+		File.AppendAllText(path, logStuff, Encoding.UTF8);
+		
+		/*
+		StreamWriter writer = new StreamWriter(path, true);
+		writer.WriteLine(logStuff);
+		writer.Close();
+		*/
+	}
+	
+	bool CompareLastLine (string line) {
+		string lastLine = File.ReadAllLines(path).Last();
+		return lastLine.Contains(line) || line.Contains(lastLine);
 	}
 }

@@ -1,4 +1,6 @@
-﻿Shader "Custom/Unity_Outline"
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Custom/Unity_Outline"
 {
     Properties
     {
@@ -25,7 +27,7 @@
         {
             Varying output;
  
-            output.position = mul(UNITY_MATRIX_MVP, input.position);
+            output.position = UnityObjectToClipPos(input.position);
             output.uv = input.uv;
             return output;
         }

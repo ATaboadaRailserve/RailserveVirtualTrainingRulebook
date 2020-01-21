@@ -1,4 +1,6 @@
-﻿Shader "Custom/Post Outline"
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Custom/Post Outline"
 {
     Properties
     {
@@ -36,7 +38,7 @@
                 v2f o;
                  
                 //Despite the fact that we are only drawing a quad to the screen, Unity requires us to multiply vertices by our MVP matrix, presumably to keep things working when inexperienced people try copying code from other shaders.
-                o.pos = mul(UNITY_MATRIX_MVP,v.vertex);
+                o.pos = UnityObjectToClipPos(v.vertex);
                  
                 //Also, we need to fix the UVs to match our screen space coordinates. There is a Unity define for this that should normally be used.
                 o.uvs = o.pos.xy / 2 + 0.5;

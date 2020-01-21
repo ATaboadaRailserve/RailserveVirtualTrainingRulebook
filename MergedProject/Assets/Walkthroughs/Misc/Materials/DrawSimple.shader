@@ -1,4 +1,6 @@
-﻿//This shader goes on the objects themselves. It just draws the object as white, and has the "Outline" tag.
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+//This shader goes on the objects themselves. It just draws the object as white, and has the "Outline" tag.
  
 Shader "Custom/DrawSimple"
 {
@@ -27,7 +29,7 @@ Properties
             VertexToFragment VShader(VertexToFragment i)
             {
                 VertexToFragment o;
-                o.pos=mul(UNITY_MATRIX_MVP,i.pos);
+                o.pos=UnityObjectToClipPos(i.pos);
                 return o;
             }
  

@@ -5,10 +5,14 @@ using System.Collections;
 using System.Text;
 using System.IO;
 using System;
+using System.Security.Cryptography.X509Certificates;
+using System.Net.Security;
+using System.Net.NetworkInformation;
 
 
 public class DataLoader : MonoBehaviour 
 {
+		
     public bool onlineMode = true;
     public GameObject xmlManager;
 	[System.Serializable]
@@ -84,10 +88,11 @@ public class DataLoader : MonoBehaviour
 	int formSignUpUserType;
 	
 	string formEmailReset ="";
-	
-	string URL = "http://rsconnect.biz/UserData.php";
-	string signUpURL = "http://rsconnect.biz/InsertUser.php";
-	string resetURL = "http://rsconnect.biz/sentnewpassword.php";
+
+	string URL = "https://railservetraining.biz/UserData.php";
+	string signUpURL = "https://railservetraining.biz/InsertUser.php";
+	string resetURL = "https://railservetraining.biz/sentnewpassword.php";
+	string checkMachineStatusURL = "https://railservetraining.biz/machineStatus.php";
     
     bool loggingIn = false;
 	bool signingUp = false;
@@ -97,7 +102,29 @@ public class DataLoader : MonoBehaviour
     public int gender;
     public string gameFactors;
 	public string[] targetScenes;
-	
+
+
+	//Check if this machine is updated
+	string machineID = "";
+	bool machineUpdated = false;
+
+	private string GetMacAddress()
+	{
+		string macAddresses = string.Empty;
+
+		foreach (NetworkInterface nic in NetworkInterface.GetAllNetworkInterfaces())
+		{
+			if (nic.OperationalStatus == OperationalStatus.Up)
+			{
+				macAddresses += nic.GetPhysicalAddress().ToString();
+				break;
+			}
+		}
+
+		return macAddresses;
+	}
+
+
 	// Use this for initialization
 	void Start ()
 	{
@@ -117,6 +144,31 @@ public class DataLoader : MonoBehaviour
         xmlManager = GameObject.FindGameObjectWithTag("XMLManager");
 
     }
+
+	public bool MyRemoteCertificateValidationCallback(System.Object sender,
+    X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
+	{
+	    bool isOk = true;
+	    // If there are errors in the certificate chain,
+	    // look at each error to determine the cause.
+	    if (sslPolicyErrors != SslPolicyErrors.None) {
+	        for (int i=0; i<chain.ChainStatus.Length; i++) {
+	            if (chain.ChainStatus[i].Status == X509ChainStatusFlags.RevocationStatusUnknown) {
+	                continue;
+	            }
+	            chain.ChainPolicy.RevocationFlag = X509RevocationFlag.EntireChain;
+	            chain.ChainPolicy.RevocationMode = X509RevocationMode.Online;
+	            chain.ChainPolicy.UrlRetrievalTimeout = new TimeSpan (0, 1, 0);
+	            chain.ChainPolicy.VerificationFlags = X509VerificationFlags.AllFlags;
+	            bool chainIsValid = chain.Build ((X509Certificate2)certificate);
+	            if (!chainIsValid) {
+	                isOk = false;
+	                break;
+	            }
+	        }
+	    }
+	    return isOk;
+	}
 
     public static string CreateMD5(string input)
     {
@@ -177,8 +229,10 @@ public class DataLoader : MonoBehaviour
 			passwordLogInObj = GameObject.Find("SignUpPWField");
 			//usernameLogInText = usernameLogInObj.GetComponent<Text>();
 			//passwordLogInText = passwordLogInObj.GetComponent<Text>();
-			usernameLoginInputField = usernameLogInObj.GetComponent<InputField> ();
-			passwordLoginInputField = passwordLogInObj.GetComponent<InputField> ();
+			if (usernameLogInObj != null && usernameLogInObj.GetComponent<InputField> () != null)
+				usernameLoginInputField = usernameLogInObj.GetComponent<InputField> ();
+			if (passwordLogInObj != null && passwordLogInObj.GetComponent<InputField> () != null)
+				passwordLoginInputField = passwordLogInObj.GetComponent<InputField> ();
 		}
 		
 		if(Application.loadedLevelName == "LogIn" && signingUp == true)
@@ -223,82 +277,165 @@ public class DataLoader : MonoBehaviour
 
     IEnumerator SyncXmlToDB()
     {
-        //Sync all the filenames without _s at the end
-        DateTime now = DateTime.Now;
+		//Check if machine is updated or not
+		machineID = GetMacAddress();
+		//Debug.Log ("MAC Address: " + machineID);
 
-        string individualRecordFolderName = CreateMD5(formNick.ToLower());
-        string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+		WWWForm form = new WWWForm();
+		if(machineID == "")
+			yield break;
 
-        bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
+		form.AddField("myform_MAC", machineID);
+		form.AddField ("myform_status", 1);
+		WWW w = new WWW(checkMachineStatusURL,form);
+		yield return w;
+		formText = w.data;
+		Debug.Log("Got machine update status info: " + w.data);
 
-        if (exists)
-        {
-            DirectoryInfo hdDirectoryInWhichToSearch = new DirectoryInfo(Application.dataPath + "/XML/" + individualRecordFolderName + "/");
-            FileInfo[] filesInDir = hdDirectoryInWhichToSearch.GetFiles("*" + individualRecordFolderName + "*.xml");
+		//w.data = "1" (string) means this machine has been updated on the new server
+		//w.data != "1" means this machine has not been updated on the new server
+		//Please comment this if out if you don't want recheck all of the local files. 
+		if (!w.data.Equals ("1")) {
+			//Re-Sync the local xml files for every one 
+			//remove all of the _s from the files
+			DirectoryInfo hdDirectoryInWhichToSearch = new DirectoryInfo (Application.dataPath + "/XML/");
+			FileInfo[] filesInDir = hdDirectoryInWhichToSearch.GetFiles ("*.xml", SearchOption.AllDirectories);
 
-            bool skipFirst = false;
-            if (File.Exists(Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName))
-            {
-                skipFirst = true;
-            }
+			if (filesInDir.Length > 0) {
+				//Sort the file reservely, so the most recent date will be the first one
+				Array.Reverse (filesInDir);
 
-            if (filesInDir.Length > 0)
-            {
-                //Sort the file reservely, so the most recent date will be the first one
-                Array.Reverse(filesInDir);
+				//Debug.Log(filesInDirName[filesInDirName.Length - 1]);
+				foreach (FileInfo fileInfo in filesInDir) {
+					string filePath = fileInfo.FullName;
+					//Debug.Log ("Checking " + filePath);
+					if (filePath.Contains ("_s.xml")) {
+						string newFilename = filePath.Split ('.') [0].Substring (0, filePath.Split ('.') [0].Length - 2) + ".xml";
+						//Debug.Log (newFilename);
+						System.IO.File.Move (filePath, newFilename);
+						filePath = newFilename;
+					}
+						
+					Debug.Log ("Uploading " + filePath);
+					System.Net.ServicePointManager.ServerCertificateValidationCallback = MyRemoteCertificateValidationCallback;
+					System.Net.WebClient Client = new System.Net.WebClient ();
+					Client.Headers.Add ("Content-Type", "binary/octet-stream");
 
-                //Debug.Log(filesInDirName[filesInDirName.Length - 1]);
-                foreach (FileInfo fileInfo in filesInDir)
-                {
-                    string filePath = fileInfo.FullName;
-                    Debug.Log("Checking " +filePath);
+					//byte[] result = Client.UploadFile("http://127.0.0.1/railserve/upload.php", "POST", fileInfo.ToString());
+					byte[] result;
+					result = Client.UploadFile ("https://railservetraining.biz/upload_first.php", "POST", filePath);
 
-                    //Assume after sorted, any file after *_s.xml should be all _s.xml. 
-                    if (filePath.Contains("_s.xml"))
-                    {
-                        break;
-                        //if wants to double check if there were more earlier files not uploaded yet
-                        //Continue; //instead of break; it will check all files
-                    }
+					String s = System.Text.Encoding.UTF8.GetString (result, 0, result.Length);
 
-                    Debug.Log("Uploading " + filePath);
-                    System.Net.WebClient Client = new System.Net.WebClient();
-                    Client.Headers.Add("Content-Type", "binary/octet-stream");
+					Debug.Log (s);
 
-                    //byte[] result = Client.UploadFile("http://127.0.0.1/railserve/upload.php", "POST", fileInfo.ToString());
-                    byte[] result;
-                    if (skipFirst)
-                        result = Client.UploadFile("http://rsconnect.biz/upload_first.php", "POST", filePath);
-                    else
-                        result = Client.UploadFile("http://rsconnect.biz/upload.php", "POST", filePath);
+					string[] filesInDirName = filePath.Split ('\\');
 
-                    String s = System.Text.Encoding.UTF8.GetString(result, 0, result.Length);
+					//check all previous dates file names to end with _s.xml, except the current date one
+					if (s.Contains ("uploaded successfully. File is valid, and was successfully moved.")) {
+						//Change file name after sync
+						string newFilename = filePath.Split ('.') [0] + "_s.xml";
+						//Debug.Log (newFilename);
+						System.IO.File.Move (filePath, newFilename);
+					}
 
-                    Debug.Log(s);
+					yield return null;
+				}
 
-                    //Skip the current date file
-                    if (skipFirst)
-                    {
-                        skipFirst = false;
-                        continue;
-                    }
+				DateTime now = DateTime.Now;
+
+				string individualRecordFolderName = CreateMD5 (formNick.ToLower ());
+				string individualRecordFileName = individualRecordFolderName + "_" + String.Format ("{0:yyyyMMdd}", now);
+
+				bool exists = System.IO.Directory.Exists (Application.dataPath + "/XML/" + individualRecordFolderName + "_s.xml");
+				if(exists)
+					System.IO.File.Move (Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + "_s.xml", Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + ".xml");
+
+			}
+		} else {
+
+			//Sync all the filenames without _s at the end
+			DateTime now = DateTime.Now;
+
+			string individualRecordFolderName = CreateMD5 (formNick.ToLower ());
+			string individualRecordFileName = individualRecordFolderName + "_" + String.Format ("{0:yyyyMMdd}", now) + ".xml";
+
+			bool exists = System.IO.Directory.Exists (Application.dataPath + "/XML/" + individualRecordFolderName);
+
+			if (exists) {
+				DirectoryInfo hdDirectoryInWhichToSearch = new DirectoryInfo (Application.dataPath + "/XML/" + individualRecordFolderName + "/");
+				FileInfo[] filesInDir = hdDirectoryInWhichToSearch.GetFiles ("*" + individualRecordFolderName + "*.xml");
+
+				bool skipFirst = false;
+				if (File.Exists (Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName)) {
+					skipFirst = true;
+				}
+
+				if (filesInDir.Length > 0) {
+					//Sort the file reservely, so the most recent date will be the first one
+					Array.Reverse (filesInDir);
+
+					//Debug.Log(filesInDirName[filesInDirName.Length - 1]);
+					foreach (FileInfo fileInfo in filesInDir) {
+						string filePath = fileInfo.FullName;
+						Debug.Log ("Checking " + filePath);
+
+						//Assume after sorted, any file after *_s.xml should be all _s.xml. 
+						if (filePath.Contains ("_s.xml")) {
+							break;
+							//if wants to double check if there were more earlier files not uploaded yet
+							//Continue; //instead of break; it will check all files
+						}
+
+						Debug.Log ("Uploading " + filePath);
+						//System.Diagnostics.Process.Start("mozroots","--import --quiet");
+						System.Net.ServicePointManager.ServerCertificateValidationCallback = MyRemoteCertificateValidationCallback;
+						//System.Net.ServicePointManager.ServerCertificateValidationCallback += (o, certificate, chain, errors) => true;
+
+						//System.Net.ServicePointManager.ServerCertificateValidationCallback +=
+						//	delegate (object sender, System.Security.Cryptography.X509Certificates.X509Certificate certificate,
+						//		System.Security.Cryptography.X509Certificates.X509Chain chain,
+						//		System.Net.Security.SslPolicyErrors sslPolicyErrors)
+						//{
+						//	return true; // **** Always accept
+						//};
+
+						System.Net.WebClient Client = new System.Net.WebClient ();
+						Client.Headers.Add ("Content-Type", "binary/octet-stream");
+
+						//byte[] result = Client.UploadFile("http://127.0.0.1/railserve/upload.php", "POST", fileInfo.ToString());
+						byte[] result;
+						if (skipFirst)
+							result = Client.UploadFile ("https://railservetraining.biz/upload_first.php", "POST", filePath);
+						else
+							result = Client.UploadFile ("https://railservetraining.biz/upload.php", "POST", filePath);
+
+						String s = System.Text.Encoding.UTF8.GetString (result, 0, result.Length);
+
+						Debug.Log (s);
+
+						//Skip the current date file
+						if (skipFirst) {
+							skipFirst = false;
+							continue;
+						}
 
 
-                    string[] filesInDirName = filePath.Split('\\');
+						string[] filesInDirName = filePath.Split ('\\');
 
-                    //check all previous dates file names to end with _s.xml, except the current date one
-                    if (s.Contains("uploaded successfully. File is valid, and was successfully moved.") && !filePath.Contains(individualRecordFileName))
-                    {
-                        //Change file name after sync
+						//check all previous dates file names to end with _s.xml, except the current date one
+						if (s.Contains ("uploaded successfully. File is valid, and was successfully moved.") && !filePath.Contains (individualRecordFileName)) {
+							//Change file name after sync
 
-                        individualRecordFileName = filesInDirName[filesInDirName.Length - 1].Split('.')[0];
-                        System.IO.File.Move(Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + ".xml", Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + "_s.xml");
-                    }
+							individualRecordFileName = filesInDirName [filesInDirName.Length - 1].Split ('.') [0];
+							System.IO.File.Move (Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + ".xml", Application.dataPath + "/XML/" + individualRecordFolderName + "/" + individualRecordFileName + "_s.xml");
+						}
 
-                    yield return null;
-                }
-            }
-        }
+						yield return null;
+					}
+				}
+			}
+		}
     }
 	
     public IEnumerator LogInFunction()
@@ -349,7 +486,7 @@ public class DataLoader : MonoBehaviour
             DateTime now = DateTime.Now;
 
             string individualRecordFolderName = CreateMD5(formNick.ToLower());
-            string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+            string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:yyyyMMdd}", now) + ".xml";
 
             bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
 
@@ -428,7 +565,7 @@ public class DataLoader : MonoBehaviour
             DateTime now = DateTime.Now;
 
             string individualRecordFolderName = CreateMD5(formNick.ToLower());
-            string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+            string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:yyyyMMdd}", now) + ".xml";
 
             bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
 
@@ -507,7 +644,7 @@ public class DataLoader : MonoBehaviour
                 DateTime now = DateTime.Now;
 
                 string individualRecordFolderName = CreateMD5(formNick.ToLower());
-                string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+                string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:yyyyMMdd}", now) + ".xml";
 
                 bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
 				
@@ -570,7 +707,7 @@ public class DataLoader : MonoBehaviour
                 //DateTime now = DateTime.Now;
 
                 //string individualRecordFolderName = CreateMD5(formNick.ToLower());
-                //string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+                //string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:yyyyMMdd}", now) + ".xml";
 
                 //bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
 
@@ -609,7 +746,7 @@ public class DataLoader : MonoBehaviour
 					DateTime now = DateTime.Now;
 
 					string individualRecordFolderName = CreateMD5(formNick.ToLower());
-					string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:MMddyyyy}", now) + ".xml";
+					string individualRecordFileName = individualRecordFolderName + "_" + String.Format("{0:yyyyMMdd}", now) + ".xml";
 
 					bool exists = System.IO.Directory.Exists(Application.dataPath + "/XML/" + individualRecordFolderName);
 
