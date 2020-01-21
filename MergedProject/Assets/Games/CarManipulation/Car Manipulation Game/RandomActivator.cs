@@ -6,16 +6,19 @@ public class RandomActivator : MonoBehaviour {
 	
 	public GameObject AngleCockA, AirhoseA, AirBrakeA, TruckA, PistonsA, AngleCockB, AirhoseB, AirBrakeB, TruckB, HandBrakeB;
 	public GameObject AngleCockAz, AirhoseAz, AirBrakeAz, TruckAz, PistonsAz, AngleCockBz, AirhoseBz, AirBrakeBz, TruckBz, HandBrakeBz;
-	public bool isA = true;
-	public bool SetOne = true;
-	int Num;
+	
+	public int num;
+	
 	// I'm sorry I know this script is shit
 	//I'm not really that sorry ;/
 	//it's ok
 	//history will only repeat itself
-	void Awake(){		}
-	void Start()
-	{
+	
+	// You're right, it is shit.
+	// History is also repeating itself because I'm fixing this stuff yet again :T
+	//                </3 Kyle
+	
+	void Start () {
 		//a
 		AngleCockA.gameObject.SetActive (false);
 		AirhoseA.gameObject.SetActive (false);
@@ -28,7 +31,7 @@ public class RandomActivator : MonoBehaviour {
 		AirBrakeB.gameObject.SetActive (false);
 		TruckB.gameObject.SetActive (false);
 		HandBrakeB.gameObject.SetActive (false);
-
+		
 		//wrongs
 		//a
 		AngleCockAz.gameObject.SetActive (true);
@@ -42,78 +45,49 @@ public class RandomActivator : MonoBehaviour {
 		AirBrakeBz.gameObject.SetActive (true);
 		TruckBz.gameObject.SetActive (true);
 		HandBrakeBz.gameObject.SetActive (true);
-
-		//Num = (Random.Range(1, 6));
-
-
-		if (SetOne) {
-			Num = (Random.Range(1, 3));
-		}
-		if (!SetOne) {
-			Num = (Random.Range(4, 6));
-		}
-
-
-		Debug.Log("nums is " + Num);
-
-		if (Num == 1) {
-			if (isA) {
+		
+		switch (num) {
+			case 0:
 				AngleCockA.gameObject.SetActive (true);
 				AngleCockAz.gameObject.SetActive (false);
-			}
-			if (!isA) {
+				break;
+			case 1:
 				AngleCockB.gameObject.SetActive (true);
 				AngleCockBz.gameObject.SetActive (false);
-			}
-
-		}
-
-		if (Num == 2) {
-			if (isA) {
+				break;
+			case 2:
 				AirhoseA.gameObject.SetActive (true);
 				AirhoseAz.gameObject.SetActive (false);
-			}
-			if (!isA) {
+				break;
+			case 3:
 				AirhoseB.gameObject.SetActive (true);
 				AirhoseBz.gameObject.SetActive (false);
-			}
-
-		}
-
-		if (Num == 3) {
-			if (isA) {
+				break;
+			case 4:
 				AirBrakeA.gameObject.SetActive (true);
 				AirBrakeAz.gameObject.SetActive (false);
-			}
-			if (!isA) {
+				break;
+			case 5:
 				AirBrakeB.gameObject.SetActive (true);
 				AirBrakeBz.gameObject.SetActive (false);
-			}
-		}
-
-		if (Num == 4) {
-			if (isA) {
+				break;
+			case 6:
 				TruckA.gameObject.SetActive (true);
 				TruckAz.gameObject.SetActive (false);
-			}
-			if (!isA) {
+				break;
+			case 7:
 				TruckB.gameObject.SetActive (true);
 				TruckBz.gameObject.SetActive (false);
-			}
-		}
-
-		if (Num == 5) {
-			if (isA) {
+				break;
+			case 8:
 				PistonsA.gameObject.SetActive (true);
 				PistonsAz.gameObject.SetActive (false);
-			}
-			if (!isA) {
+				break;
+			case 9:
 				HandBrakeB.gameObject.SetActive (true);
 				HandBrakeBz.gameObject.SetActive (false);
-			}
+				break;
 		}
-
-
 	}
 }
 
