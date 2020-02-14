@@ -72,7 +72,7 @@ public class ReportLogger : MonoBehaviour {
 				RaycastHit hit;
 				Physics.Raycast(GameObject.FindWithTag("Player").transform.position, GameObject.FindWithTag("Player").transform.forward, out hit);
 				logStuff += '\n' + "Left clicked object: " + hit.collider.gameObject.name + " at position " + hit.collider.transform.position;
-			} else {
+			} else if (Camera.main != null) {
 				RaycastHit hit;
 				Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 				if (Physics.Raycast(ray, out hit, 100))

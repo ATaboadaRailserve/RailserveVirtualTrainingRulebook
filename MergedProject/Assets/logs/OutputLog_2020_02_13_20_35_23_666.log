@@ -1,0 +1,221 @@
+﻿2020_02_13_20_35_23_669
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Log]Cursor Escaped
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+UI Raycast Result: Panel
+UI Raycast Result: Image
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Fields Added
+[Log]Opening WWW...
+UI Raycast Result: Image
+[Log]Test Ok
+UI Raycast Result: Image
+[Log]Got this user -- Successfully connected!UserID:1|First Name:Master|Last Name:Account|Gender:1|Username:Master|Training Status: 72|Game Factors: 15-27.777777777778, 18; 21-25.000000000001, 28; 28-38.095244047619, 42; 36-10.344827586206, 29; 43-9.7560995121951, 41|Uber Completions: 6/8/2018 9:20:29 AM | The final grade is 100; 9/14/2018 1:21:19 PM | The final grade is 100; 9/17/2018 12:15:22 AM | The final grade is 100; 1/18/2019 6:23:02 PM | The final grade is 100; 2/11/2019 2:05:28 PM | The final grade is 100; 2/11/2019 7:40:34 PM | The final grade is 100; 2/13/2019 7:36:15 PM | The final grade is 100; 2/13/2019 8:00:28 PM | The final grade is 100; 2/13/2019 8:27:55 PM | The final grade is 100; 2/13/2019 9:14:09 PM | The final grade is 100; 2/13/2019 9:34:23 PM | The final grade is 100; 2/13/2019 10:02:45 PM | The final grade is 100; 2/13/2019 11:27:20 PM | The final grade is 100; 2/13/2019 11:56:49 PM | The final grade is 100; 2/14/2019 12:12:17 AM | The final grade is 100; 2/14/2019 12:16:53 AM | The final grade is 100; 2/14/2019 12:26:45 AM | The final grade is 100; 2/14/2019 12:26:46 AM | The final grade is 100; 2/14/2019 12:57:31 AM | The final grade is 100; 2/14/2019 1:04:49 AM | The final grade is 100; 2/17/2019 8:38:07 AM | The final grade is 100; 2/17/2019 8:58:24 AM | The final grade is 100; 2/17/2019 8:58:25 AM | The final grade is 100; 2/17/2019 8:58:27 AM | The final grade is 100; 2/17/2019 8:58:28 AM | The final grade is 100; 2/20/2019 4:23:40 PM | The final grade is 100; 2/20/2019 4:29:04 PM | The final grade is 100; 2/20/2019 4:45:24 PM | The final grade is 100; 2/20/2019 5:33:41 PM | The final grade is 100; 2/21/2019 6:45:17 PM | The final grade is 100; 3/5/2019 4:38:31 PM | The final grade is 100; 3/22/2019 3:36:27 PM | The final grade is 100|
+[Log]Successfully connected!UserID:1|First Name:Master|Last Name:Account|Gender:1|Username:Master|Training Status: 72|Game Factors: 15-27.777777777778, 18; 21-25.000000000001, 28; 28-38.095244047619, 42; 36-10.344827586206, 29; 43-9.7560995121951, 41|Uber Completions: 6/8/2018 9:20:29 AM | The final grade is 100; 9/14/2018 1:21:19 PM | The final grade is 100; 9/17/2018 12:15:22 AM | The final grade is 100; 1/18/2019 6:23:02 PM | The final grade is 100; 2/11/2019 2:05:28 PM | The final grade is 100; 2/11/2019 7:40:34 PM | The final grade is 100; 2/13/2019 7:36:15 PM | The final grade is 100; 2/13/2019 8:00:28 PM | The final grade is 100; 2/13/2019 8:27:55 PM | The final grade is 100; 2/13/2019 9:14:09 PM | The final grade is 100; 2/13/2019 9:34:23 PM | The final grade is 100; 2/13/2019 10:02:45 PM | The final grade is 100; 2/13/2019 11:27:20 PM | The final grade is 100; 2/13/2019 11:56:49 PM | The final grade is 100; 2/14/2019 12:12:17 AM | The final grade is 100; 2/14/2019 12:16:53 AM | The final grade is 100; 2/14/2019 12:26:45 AM | The final grade is 100; 2/14/2019 12:26:46 AM | The final grade is 100; 2/14/2019 12:57:31 AM | The final grade is 100; 2/14/2019 1:04:49 AM | The final grade is 100; 2/17/2019 8:38:07 AM | The final grade is 100; 2/17/2019 8:58:24 AM | The final grade is 100; 2/17/2019 8:58:25 AM | The final grade is 100; 2/17/2019 8:58:27 AM | The final grade is 100; 2/17/2019 8:58:28 AM | The final grade is 100; 2/20/2019 4:23:40 PM | The final grade is 100; 2/20/2019 4:29:04 PM | The final grade is 100; 2/20/2019 4:45:24 PM | The final grade is 100; 2/20/2019 5:33:41 PM | The final grade is 100; 2/21/2019 6:45:17 PM | The final grade is 100; 3/5/2019 4:38:31 PM | The final grade is 100; 3/22/2019 3:36:27 PM | The final grade is 100|
+[Log]Current Username: master Current First Name: Master Current Last Name: Account
+[Log]The file EB0A191797624DD3A48FA681D3061212_20200213.xml not exists.
+[Log]Retrieving Data from Local
+[Log]The file EB0A191797624DD3A48FA681D3061212_02132020_s.xml exists.
+Asset 'Office Guy': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Rewired: Only one Rewired Input Manager may exist in a scene. This additional Rewired Input Manager game object will be deleted. You may see this warning if you are loading a new level that contains a Rewired Input Manager. If that's the case, you can safely ignore this warning. This warning will never be logged in a build.
+72
+[Log]Menu procedureStatus read as: 45
+[Log]dataLoader userName: master | gender: 1 | procedureStatus: 72 | Game Factors:  15-27.777777777778, 18; 21-25.000000000001, 28; 28-38.095244047619, 42; 36-10.344827586206, 29; 43-9.7560995121951, 41
+[Log]Cursor No Longer Escaped
+Leaving Scene: 
+Loading Scene: MainMenu
+[Warning]No MovieTexture found on Plane. Skipping movie.
+[Log]63:72
+[Log]Confetti 1 (1) procedure active state set to True
+[Log]63:72
+[Log]Confetti 2 procedure active state set to True
+[Log]63:72
+[Log]Confetti 1 (2) procedure active state set to True
+[Log]63:72
+[Log]Confetti 1 procedure active state set to True
+[Log]11:72
+[Log]61:72
+[Log]51:72
+[Log]30:72
+[Log]21:72
+[Log]63:72
+[Log]Uber procedure active state set to True
+[Log]40:72
+[Log]Got machine update status info: 1
+UI Raycast Result: Fader
+72
+[Log]Menu procedureStatus read as: 45
+UI Raycast Result: Fader
+UI Raycast Result: Fader
+UI Raycast Result: Background Color
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Background Color
+UI Raycast Result: Text
+UI Raycast Result: Comms & Emergencies Button
+UI Raycast Result: Main Menu
+Rotation: (0.0, 0.6, 0.0, 0.8)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.7, 0.0, 0.8)
+UI Raycast Result: Fader
+UI Raycast Result: Main Menu
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Background Color
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Main Menu
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Comms Button
+UI Raycast Result: Background Color
+PAGE 3 IS OPEN
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Radio Communication Button
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.6)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+Rotation: (0.0, 0.8, 0.0, 0.7)
+UI Raycast Result: Fader
+Rotation: (0.0, 0.8, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Radio Communication Button
+Rotation: (0.0, 0.8, 0.0, 0.7)
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+[Log]Check Database Connection...
+[Log]Opening WWW...
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+[Log]Connection is Good!
+UI Raycast Result: Fader
+UI Raycast Result: Text
+UI Raycast Result: Incident Reporting Button
+[Log]Pushing Messages
+[Log]Attempted to push no messages
+[Log]Cursor Escaped
+Leaving Scene: 
+Loading Scene: IR_Incident_Reporting
+[Log]Checking for Dupes
+[Log]12
+[Log]Check Database Connection...
+[Log]Opening WWW...
+[Log]Connection is Good!
+[Log]Pushing Messages
+[Log]0: 2/13/2020 8:35:51 PM | Training Started
+[Log]The file EB0A191797624DD3A48FA681D3061212_02132020.xml exists.
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Opening WWW...
+[Log]events were inserted!
+[Log]Successfully connected!Your data was recorded into eventtable
+UI Raycast Result: Line01
+UI Raycast Result: Banner
+UI Raycast Result: Text (1)
+UI Raycast Result: T3
+UI Raycast Result: Background
+UI Raycast Result: AnimationScrubber
+UI Raycast Result: Text (1)
+UI Raycast Result: T3
+[Log]Checking for Dupes
+[Log]12
+[Log]Checking for Dupes
+[Log]12
+[Log]Check Database Connection...
+[Log]Opening WWW...
+12: IR_Incident_Reporting
+Checking if 13 is greater than 12
+It is!
+[Log]Connection is Good!
+[Log]Pushing Messages
+[Log]0: 2/13/2020 8:37:08 PM | Video complete.
+[Log]1: 2/13/2020 8:37:08 PM | 100
+[Log]The file EB0A191797624DD3A48FA681D3061212_02132020.xml exists.
+[Log]Creating Form...
+[Log]Form Created, Adding Fields...
+[Log]Opening WWW...
+[Log]events were inserted!
+[Log]Successfully connected!Your data was recorded into eventtable
+ 100
+[Log]13
+[Log]Sending: 13
+[Log]score was inserted!
+[Log]Successfully connected!ProcedureStatus does not need to be updated|72
+
+[Log]score was inserted!
+[Log]Successfully connected!Your data was recorded into gradetable table
+[Log]events were inserted!
+[Log]Successfully connected!Your data was recorded into eventtable
+UI Raycast Result: Text (1)
+UI Raycast Result: T9
+UI Raycast Result: Background
+UI Raycast Result: AnimationScrubber
+[Log]Check Database Connection...
+[Log]Opening WWW...
+UI Raycast Result: Text
+UI Raycast Result: ToMenu
+UI Raycast Result: Background
+UI Raycast Result: AnimationScrubber
+Asset 'Office Guy': Transition in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+Rewired: Only one Rewired Input Manager may exist in a scene. This additional Rewired Input Manager game object will be deleted. You may see this warning if you are loading a new level that contains a Rewired Input Manager. If that's the case, you can safely ignore this warning. This warning will never be logged in a build.
+13
+[Log]Cursor No Longer Escaped
+Leaving Scene: 
+Loading Scene: MainMenu
+[Warning]No MovieTexture found on Plane. Skipping movie.
+[Log]63:19
+[Log]Cake procedure active state set to False
+[Log]63:19
+[Log]Confetti Button procedure active state set to False
+[Log]63:19
+[Log]Confetti 3 procedure active state set to False
+[Log]63:19
+[Log]11:19
+[Log]61:19
+[Log]Eyes of the Move procedure active state set to False
+[Log]51:19
+[Log]Coupling Derails procedure active state set to False
+[Log]30:19
+[Log]Car Manipulation procedure active state set to False
+[Log]21:19
+[Log]Comms Emergencies procedure active state set to False
+[Log]63:19
+[Log]40:19
+[Log]Groundman Duties procedure active state set to False
+[Log]Connection is Good!
+Rotation: (0.0, 0.7, 0.0, 0.7)
+UI Raycast Result: Fader
+[Log]Pushing Messages
+[Log]Attempted to push no messages
+UI Raycast Result: Fader

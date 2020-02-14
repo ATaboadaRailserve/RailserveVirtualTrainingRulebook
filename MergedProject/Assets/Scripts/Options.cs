@@ -26,6 +26,8 @@ public class Options : MonoBehaviour {
 		if (!GameObject.FindWithTag("Player"))
 			return;
 		GameObject.FindWithTag("Player").GetComponent<PlayerController>().SetSensitivity((float)sensitivitySlider.value/10f);
+		PlayerPrefs.SetFloat("MouseSensitivity",(float)sensitivitySlider.value/10f);
+		PlayerPrefs.Save();
 	}
 	
 	public void ToggleOptionsMenu () {

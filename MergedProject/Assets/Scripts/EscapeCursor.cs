@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Runtime.InteropServices;
 
 public class EscapeCursor : MonoBehaviour {
 	
@@ -19,6 +20,9 @@ public class EscapeCursor : MonoBehaviour {
 	private CursorLockMode savedMode;
 	private bool currentlyEscaped;
 	private bool wasHeld;
+	
+	[DllImport("user32.dll")]
+    static extern bool SetCursorPos(int X, int Y);
 
 	void Start()
 	{
@@ -30,7 +34,7 @@ public class EscapeCursor : MonoBehaviour {
 		}
 	}
 	
-	void LateUpdate()
+	void LateUpdate ()
 	{
 		for (int i = 0; i < keys.Length; i++) {
 			switch (keys[i].behavior) {
@@ -73,6 +77,9 @@ public class EscapeCursor : MonoBehaviour {
 		if (currentlyEscaped) {
 			Cursor.lockState = CursorLockMode.None;
 			Cursor.visible = true;
+		} else {
+			SetCursorPos(1920/2,1080/2);
+			Cursor.visible = false;
 		}
 	}
 	
@@ -82,11 +89,11 @@ public class EscapeCursor : MonoBehaviour {
 				Cursor.lockState = overrideState;
 			else
 				Cursor.lockState = savedMode;
-			Cursor.visible = false;
 			currentlyEscaped = false;
-			Debug.Log("Cursor No Longer Escaped");
+			Debug.Log("Cursor No Longer Escaped | " + Cursor.lockState);
 		} else {
 			savedMode = Cursor.lockState;
+			Cursor.visible = false;
 			currentlyEscaped = true;
 			Debug.Log("Cursor Escaped");
 		}
