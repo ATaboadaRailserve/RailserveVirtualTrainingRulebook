@@ -102,6 +102,9 @@ public class DataLoader : MonoBehaviour
     public int gender;
     public string gameFactors;
 	public string[] targetScenes;
+	
+	public string uberCompletions;
+	public Retrain retrain;
 
 
 	//Check if this machine is updated
@@ -193,6 +196,13 @@ public class DataLoader : MonoBehaviour
 		//print (data + " | " + index);
 		string value = data.Substring(data.IndexOf(index)+index.Length);
 		value = value.Remove(value.IndexOf("|"));
+		return value;
+	}
+
+    string GetUberCompletions(string data)
+	{
+		//print (data + " | " + index);
+		string value = data.Substring(data.IndexOf("Uber Completions:")+("Uber Completions:").Length);
 		return value;
 	}
 	
@@ -947,7 +957,8 @@ public class DataLoader : MonoBehaviour
 		string userInfo = u;
 		Debug.Log(userInfo);
         string sessionID = System.DateTime.Now.Month.ToString() + System.DateTime.Now.Day.ToString() + System.DateTime.Now.Year.ToString() + System.DateTime.Now.Hour.ToString() + System.DateTime.Now.Minute.ToString() + System.DateTime.Now.Millisecond.ToString();
-
+		uberCompletions = GetUberCompletions(userInfo);
+		retrain.CheckForRetrain(uberCompletions);
         CurrentUser = new User(GetDataValue(userInfo, "UserID:"), GetDataValue(userInfo, "First Name:"),GetDataValue(userInfo, "Last Name:"), int.Parse(GetDataValue(userInfo, "Gender:")), GetDataValue(userInfo, "Email:"),GetDataValue(userInfo, "Username:").ToLower(),GetDataValue(userInfo, "Password:"),GetDataValue(userInfo, "UserType:"), sessionID, int.Parse(GetDataValue(userInfo, "Training Status: ")), GetDataValue(userInfo, "Game Factors:"));
 		Debug.Log("Current Username: " + CurrentUser.Username + " Current First Name: " + CurrentUser.FirstName + " Current Last Name: " + CurrentUser.LastName);
 		
