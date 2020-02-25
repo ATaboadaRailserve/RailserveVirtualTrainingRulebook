@@ -8,8 +8,10 @@ public class Retrain : MonoBehaviour {
 	public bool needsRetrain;
 	
 	public void CheckForRetrain (string completions) {
-		if (completions == "" || completions.Length == 0)
+		if (completions == "" || completions.Length == 0) {
+			Debug.Log("They've not completed it yet so no need to check");
 			return;
+		}
 		int latestTimeStamp = 31536001;
 		string[] messages = completions.Split(';');
 		for (int i = 0; i < messages.Length; i++) {
@@ -17,10 +19,11 @@ public class Retrain : MonoBehaviour {
 			if ((int)diff.TotalSeconds < latestTimeStamp)
 				latestTimeStamp = (int)diff.TotalSeconds;
 		}
-		print(latestTimeStamp);
 		if (latestTimeStamp > secondsUntilRetrain) {
 			needsRetrain = true;
-			print("NEED RETRAIN!");
+			Debug.Log("It's time to retake the comprehensive final test");
+			return;
 		}
+		Debug.Log("No need to retake the comprehensive final test");
 	}
 }
